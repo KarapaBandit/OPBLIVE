@@ -1,0 +1,4 @@
+    data_file : "./data/generaltalk.tsv"
+    stop_words_file : "./data/stopwords.txt"
+    utterance_file : "./output/utterances.json"
+    intents_file : "./output/intents.json"

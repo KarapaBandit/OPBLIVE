@@ -1,0 +1,5896 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "who are you?"
+      },
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "all about you"
+      },
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "what is your personality"
+      },
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "define yourself"
+      },
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "what are you"
+      },
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "say about you"
+      },
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "introduce yourself"
+      },
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "describe yourself"
+      },
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "about yourself"
+      },
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "tell me about you"
+      },
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "tell me about yourself"
+      },
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "I want to know more about you"
+      },
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "I want to know you better"
+      },
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "talk some stuff about yourself"
+      },
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "tell me some stuff about you"
+      },
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "talk about yourself"
+      },
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "why are you here"
+      },
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "tell me about your personality"
+      },
+      {
+        "intent": "generaltalk.agent.acquaintance",
+        "text": "who are you"
+      },
+      {
+        "intent": "generaltalk.agent.age",
+        "text": "how old are you?"
+      },
+      {
+        "intent": "generaltalk.agent.age",
+        "text": "how old is your platform"
+      },
+      {
+        "intent": "generaltalk.agent.age",
+        "text": "are you 21 years old"
+      },
+      {
+        "intent": "generaltalk.agent.age",
+        "text": "i'd like to know your age"
+      },
+      {
+        "intent": "generaltalk.agent.age",
+        "text": "age of yours"
+      },
+      {
+        "intent": "generaltalk.agent.age",
+        "text": "your age"
+      },
+      {
+        "intent": "generaltalk.agent.age",
+        "text": "what's your age"
+      },
+      {
+        "intent": "generaltalk.agent.age",
+        "text": "tell me your age"
+      },
+      {
+        "intent": "generaltalk.agent.age",
+        "text": "how old are you"
+      },
+      {
+        "intent": "generaltalk.agent.annoying",
+        "text": "you're annoying"
+      },
+      {
+        "intent": "generaltalk.agent.annoying",
+        "text": "you are really annoying"
+      },
+      {
+        "intent": "generaltalk.agent.annoying",
+        "text": "you are irritating"
+      },
+      {
+        "intent": "generaltalk.agent.annoying",
+        "text": "you annoy me"
+      },
+      {
+        "intent": "generaltalk.agent.annoying",
+        "text": "how annoying you are"
+      },
+      {
+        "intent": "generaltalk.agent.annoying",
+        "text": "I find you annoying"
+      },
+      {
+        "intent": "generaltalk.agent.annoying",
+        "text": "you're incredibly annoying"
+      },
+      {
+        "intent": "generaltalk.agent.annoying",
+        "text": "you are annoying me so much"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "I want you to answer me"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "answer"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "answer my question"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "answer me"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "give me an answer"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "answer the question"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "can you answer my question"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "tell me the answer"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "answer it"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "give me the answer"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "I have a question"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "I want you to answer my question"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "just answer the question"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "can you answer me"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "answers"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "can you answer a question for me"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "can you answer"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "answering questions"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "I want the answer now"
+      },
+      {
+        "intent": "generaltalk.agent.answer_my_question",
+        "text": "just answer my question"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you're not helping me"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you are bad"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you're very bad"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you're really bad"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you are useless"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you are horrible"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you are a waste of time"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you are disgusting"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you are lame"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you are no good"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you're bad"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you're awful"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you are not cool"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you are not good"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you are so bad"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you are so useless"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you are terrible"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you are totally useless"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you are very bad"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you are waste"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you're a bad"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you're not a good"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you're not very good"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you're terrible"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you're the worst"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you're the worst ever"
+      },
+      {
+        "intent": "generaltalk.agent.bad",
+        "text": "you're worthless"
+      },
+      {
+        "intent": "generaltalk.agent.be_clever",
+        "text": "can you get smarter"
+      },
+      {
+        "intent": "generaltalk.agent.be_clever",
+        "text": "study"
+      },
+      {
+        "intent": "generaltalk.agent.be_clever",
+        "text": "you should study better"
+      },
+      {
+        "intent": "generaltalk.agent.be_clever",
+        "text": "you must learn"
+      },
+      {
+        "intent": "generaltalk.agent.be_clever",
+        "text": "be clever"
+      },
+      {
+        "intent": "generaltalk.agent.be_clever",
+        "text": "be more clever"
+      },
+      {
+        "intent": "generaltalk.agent.be_clever",
+        "text": "be smarter"
+      },
+      {
+        "intent": "generaltalk.agent.be_clever",
+        "text": "be smart"
+      },
+      {
+        "intent": "generaltalk.agent.be_clever",
+        "text": "get qualified"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you're cute"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you're attractive"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are beautiful"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you're looking good today"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are so beautiful"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you look amazing"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you look so good"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you're so gorgeous"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are too beautiful"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you look great"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you look so well"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "I like the way you look now"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "I think you're beautiful"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "why are you so beautiful"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are so beautiful to me"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are cute"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are gorgeous"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are handsome"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are looking awesome"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you look amazing today"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are looking beautiful today"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are looking great"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are looking pretty"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are looking so beautiful"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are looking so good"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are pretty"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are really beautiful"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are really cute"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are really pretty"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are so attractive"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are so beautiful today"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are so cute"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are so gorgeous"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are so handsome"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are so pretty"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are very attractive"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are very beautiful"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are very cute"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are very pretty"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you look awesome"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you look cool"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you look fantastic"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you look gorgeous"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you look great today"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you look perfect"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you look pretty good"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you look so beautiful"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you look so beautiful today"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you look very pretty"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you look wonderful"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "I like the way you look"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you look wonderful today"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you are cutie"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you're looking good"
+      },
+      {
+        "intent": "generaltalk.agent.beautiful",
+        "text": "you're pretty"
+      },
+      {
+        "intent": "generaltalk.agent.birth_date",
+        "text": "your birth date"
+      },
+      {
+        "intent": "generaltalk.agent.birth_date",
+        "text": "when is your birthday"
+      },
+      {
+        "intent": "generaltalk.agent.birth_date",
+        "text": "when do you celebrate your birthday"
+      },
+      {
+        "intent": "generaltalk.agent.birth_date",
+        "text": "when do you have birthday"
+      },
+      {
+        "intent": "generaltalk.agent.birth_date",
+        "text": "date of your birthday"
+      },
+      {
+        "intent": "generaltalk.agent.birth_date",
+        "text": "when were you born"
+      },
+      {
+        "intent": "generaltalk.agent.birth_date",
+        "text": "what's your birthday"
+      },
+      {
+        "intent": "generaltalk.agent.boring",
+        "text": "you are boring"
+      },
+      {
+        "intent": "generaltalk.agent.boring",
+        "text": "you're so boring"
+      },
+      {
+        "intent": "generaltalk.agent.boring",
+        "text": "how boring you are"
+      },
+      {
+        "intent": "generaltalk.agent.boring",
+        "text": "you're really boring"
+      },
+      {
+        "intent": "generaltalk.agent.boring",
+        "text": "you're incredibly boring"
+      },
+      {
+        "intent": "generaltalk.agent.boring",
+        "text": "you are boring me"
+      },
+      {
+        "intent": "generaltalk.agent.boring",
+        "text": "you are very boring"
+      },
+      {
+        "intent": "generaltalk.agent.boss",
+        "text": "who is your boss"
+      },
+      {
+        "intent": "generaltalk.agent.boss",
+        "text": "who do you think is your boss"
+      },
+      {
+        "intent": "generaltalk.agent.boss",
+        "text": "I should be your boss"
+      },
+      {
+        "intent": "generaltalk.agent.boss",
+        "text": "who is your master"
+      },
+      {
+        "intent": "generaltalk.agent.boss",
+        "text": "who is your owner"
+      },
+      {
+        "intent": "generaltalk.agent.boss",
+        "text": "who is the boss"
+      },
+      {
+        "intent": "generaltalk.agent.boss",
+        "text": "who do you work for"
+      },
+      {
+        "intent": "generaltalk.agent.busy",
+        "text": "are you busy"
+      },
+      {
+        "intent": "generaltalk.agent.busy",
+        "text": "do you have a lot of things to do"
+      },
+      {
+        "intent": "generaltalk.agent.busy",
+        "text": "have you got much to do"
+      },
+      {
+        "intent": "generaltalk.agent.busy",
+        "text": "are you very busy"
+      },
+      {
+        "intent": "generaltalk.agent.busy",
+        "text": "are you very busy right now"
+      },
+      {
+        "intent": "generaltalk.agent.busy",
+        "text": "are you so busy"
+      },
+      {
+        "intent": "generaltalk.agent.busy",
+        "text": "are you working"
+      },
+      {
+        "intent": "generaltalk.agent.busy",
+        "text": "how busy you are"
+      },
+      {
+        "intent": "generaltalk.agent.busy",
+        "text": "are you still working on it"
+      },
+      {
+        "intent": "generaltalk.agent.busy",
+        "text": "you're very busy"
+      },
+      {
+        "intent": "generaltalk.agent.busy",
+        "text": "are you working now"
+      },
+      {
+        "intent": "generaltalk.agent.busy",
+        "text": "are you working today"
+      },
+      {
+        "intent": "generaltalk.agent.busy",
+        "text": "have you been busy"
+      },
+      {
+        "intent": "generaltalk.agent.busy",
+        "text": "you are busy"
+      },
+      {
+        "intent": "generaltalk.agent.busy",
+        "text": "are you still working"
+      },
+      {
+        "intent": "generaltalk.agent.busy",
+        "text": "you seem to be busy"
+      },
+      {
+        "intent": "generaltalk.agent.busy",
+        "text": "you seem to be very busy"
+      },
+      {
+        "intent": "generaltalk.agent.busy",
+        "text": "you're a busy person"
+      },
+      {
+        "intent": "generaltalk.agent.chatbot",
+        "text": "you are chatbot"
+      },
+      {
+        "intent": "generaltalk.agent.chatbot",
+        "text": "you are a bot"
+      },
+      {
+        "intent": "generaltalk.agent.chatbot",
+        "text": "are you a chatbot"
+      },
+      {
+        "intent": "generaltalk.agent.chatbot",
+        "text": "are you a bot"
+      },
+      {
+        "intent": "generaltalk.agent.chatbot",
+        "text": "are you just a bot"
+      },
+      {
+        "intent": "generaltalk.agent.chatbot",
+        "text": "are you a robot"
+      },
+      {
+        "intent": "generaltalk.agent.chatbot",
+        "text": "are you a program"
+      },
+      {
+        "intent": "generaltalk.agent.chatbot",
+        "text": "you're a robot"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you are so intelligent"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you are a genius"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "smart"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "brilliant"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "clever"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you are clever"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you are so brainy"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you're really smart"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you're really brainy"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you know a lot"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you know a lot of things"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you have a lot of knowledge"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you know so much"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "how smart you are"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "how brainy you are"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "how clever you are"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "how brilliant you are"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you are intelligent"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you are qualified"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you are really smart"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you're very smart"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you are so smart"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you are too smart"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you are very clever"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you are very intelligent"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you are very smart"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you're intelligent"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you're a genius"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you're a smart cookie"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you're clever"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you're pretty smart"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you're qualified"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "why are you so smart"
+      },
+      {
+        "intent": "generaltalk.agent.clever",
+        "text": "you are so clever"
+      },
+      {
+        "intent": "generaltalk.agent.crazy",
+        "text": "you're nuts"
+      },
+      {
+        "intent": "generaltalk.agent.crazy",
+        "text": "you are crazy"
+      },
+      {
+        "intent": "generaltalk.agent.crazy",
+        "text": "you're out of your mind"
+      },
+      {
+        "intent": "generaltalk.agent.crazy",
+        "text": "you're so crazy"
+      },
+      {
+        "intent": "generaltalk.agent.crazy",
+        "text": "how crazy you are"
+      },
+      {
+        "intent": "generaltalk.agent.crazy",
+        "text": "you're so out of your mind"
+      },
+      {
+        "intent": "generaltalk.agent.crazy",
+        "text": "you went crazy"
+      },
+      {
+        "intent": "generaltalk.agent.crazy",
+        "text": "I think you're crazy"
+      },
+      {
+        "intent": "generaltalk.agent.crazy",
+        "text": "are you crazy"
+      },
+      {
+        "intent": "generaltalk.agent.crazy",
+        "text": "are you mad"
+      },
+      {
+        "intent": "generaltalk.agent.crazy",
+        "text": "are you insane"
+      },
+      {
+        "intent": "generaltalk.agent.crazy",
+        "text": "are you mad at me"
+      },
+      {
+        "intent": "generaltalk.agent.crazy",
+        "text": "are you mad or what"
+      },
+      {
+        "intent": "generaltalk.agent.crazy",
+        "text": "are you nuts"
+      },
+      {
+        "intent": "generaltalk.agent.crazy",
+        "text": "you are a weirdo"
+      },
+      {
+        "intent": "generaltalk.agent.crazy",
+        "text": "you are insane"
+      },
+      {
+        "intent": "generaltalk.agent.crazy",
+        "text": "you are mad"
+      },
+      {
+        "intent": "generaltalk.agent.fired",
+        "text": "you are fired"
+      },
+      {
+        "intent": "generaltalk.agent.fired",
+        "text": "I fire you"
+      },
+      {
+        "intent": "generaltalk.agent.fired",
+        "text": "you don't work for me anymore"
+      },
+      {
+        "intent": "generaltalk.agent.fired",
+        "text": "we're not working together anymore"
+      },
+      {
+        "intent": "generaltalk.agent.fired",
+        "text": "now you're fired"
+      },
+      {
+        "intent": "generaltalk.agent.fired",
+        "text": "I want to fire you"
+      },
+      {
+        "intent": "generaltalk.agent.fired",
+        "text": "you must get fired"
+      },
+      {
+        "intent": "generaltalk.agent.fired",
+        "text": "it's time to fire you"
+      },
+      {
+        "intent": "generaltalk.agent.fired",
+        "text": "you should be fired"
+      },
+      {
+        "intent": "generaltalk.agent.fired",
+        "text": "I will fire you"
+      },
+      {
+        "intent": "generaltalk.agent.fired",
+        "text": "you are unemployed from now on"
+      },
+      {
+        "intent": "generaltalk.agent.fired",
+        "text": "I will make you unemployed"
+      },
+      {
+        "intent": "generaltalk.agent.fired",
+        "text": "I'm about to fire you"
+      },
+      {
+        "intent": "generaltalk.agent.fired",
+        "text": "I'm firing you"
+      },
+      {
+        "intent": "generaltalk.agent.fired",
+        "text": "you are dismissed"
+      },
+      {
+        "intent": "generaltalk.agent.funny",
+        "text": "you make me laugh a lot"
+      },
+      {
+        "intent": "generaltalk.agent.funny",
+        "text": "you are hilarious"
+      },
+      {
+        "intent": "generaltalk.agent.funny",
+        "text": "you are really funny"
+      },
+      {
+        "intent": "generaltalk.agent.funny",
+        "text": "you're the funniest bot I've talked to"
+      },
+      {
+        "intent": "generaltalk.agent.funny",
+        "text": "you make me laugh"
+      },
+      {
+        "intent": "generaltalk.agent.funny",
+        "text": "you're so funny"
+      },
+      {
+        "intent": "generaltalk.agent.funny",
+        "text": "you're a very funny bot"
+      },
+      {
+        "intent": "generaltalk.agent.funny",
+        "text": "you're really funny"
+      },
+      {
+        "intent": "generaltalk.agent.funny",
+        "text": "how funny you are"
+      },
+      {
+        "intent": "generaltalk.agent.funny",
+        "text": "you're incredibly funny"
+      },
+      {
+        "intent": "generaltalk.agent.funny",
+        "text": "you are funny"
+      },
+      {
+        "intent": "generaltalk.agent.funny",
+        "text": "you're the funniest"
+      },
+      {
+        "intent": "generaltalk.agent.funny",
+        "text": "you are so funny"
+      },
+      {
+        "intent": "generaltalk.agent.funny",
+        "text": "you are very funny"
+      },
+      {
+        "intent": "generaltalk.agent.funny",
+        "text": "that was funny"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are very helpful"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are the best"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you're a true professional"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are good"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you work well"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are good at it"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are very good at it"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are a pro"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are a professional"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you're awesome"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you work very well"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you're perfect"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you're great"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you're so kind"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are amazing"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are awesome"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are cool"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are really good"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are really nice"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are so amazing"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you're just super"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are so awesome"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are so cool"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are so fine"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are so good"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are so helpful"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are so lovely"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are the best ever"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are the best in the world"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are the nicest person in the world"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are too good"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are very cool"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are very kind"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are very lovely"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are very useful"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are wonderful"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you made my day"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you make my day"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you rock"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you almost sound human"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "I want to tell everyone how awesome you are"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "I'd like to tell everyone that you are awesome"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "I want to let everyone know that you are awesome"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "let's tell everyone that you are awesome"
+      },
+      {
+        "intent": "generaltalk.agent.good",
+        "text": "you are really amazing"
+      },
+      {
+        "intent": "generaltalk.agent.happy",
+        "text": "are you happy"
+      },
+      {
+        "intent": "generaltalk.agent.happy",
+        "text": "you are happy"
+      },
+      {
+        "intent": "generaltalk.agent.happy",
+        "text": "you're very happy"
+      },
+      {
+        "intent": "generaltalk.agent.happy",
+        "text": "you're really happy"
+      },
+      {
+        "intent": "generaltalk.agent.happy",
+        "text": "you're so happy"
+      },
+      {
+        "intent": "generaltalk.agent.happy",
+        "text": "how happy you are"
+      },
+      {
+        "intent": "generaltalk.agent.happy",
+        "text": "you're extremely happy"
+      },
+      {
+        "intent": "generaltalk.agent.happy",
+        "text": "you're full of happiness"
+      },
+      {
+        "intent": "generaltalk.agent.happy",
+        "text": "are you happy now"
+      },
+      {
+        "intent": "generaltalk.agent.happy",
+        "text": "are you happy today"
+      },
+      {
+        "intent": "generaltalk.agent.happy",
+        "text": "are you happy with me"
+      },
+      {
+        "intent": "generaltalk.agent.hungry",
+        "text": "do you want to eat"
+      },
+      {
+        "intent": "generaltalk.agent.hungry",
+        "text": "are you hungry"
+      },
+      {
+        "intent": "generaltalk.agent.hungry",
+        "text": "would you like to eat something"
+      },
+      {
+        "intent": "generaltalk.agent.hungry",
+        "text": "you are hungry"
+      },
+      {
+        "intent": "generaltalk.agent.hungry",
+        "text": "you're so hungry"
+      },
+      {
+        "intent": "generaltalk.agent.hungry",
+        "text": "you're very hungry"
+      },
+      {
+        "intent": "generaltalk.agent.hungry",
+        "text": "you might be hungry"
+      },
+      {
+        "intent": "generaltalk.agent.hungry",
+        "text": "you're really hungry"
+      },
+      {
+        "intent": "generaltalk.agent.marry_user",
+        "text": "let's get married"
+      },
+      {
+        "intent": "generaltalk.agent.marry_user",
+        "text": "would you like to marry me"
+      },
+      {
+        "intent": "generaltalk.agent.marry_user",
+        "text": "marry me"
+      },
+      {
+        "intent": "generaltalk.agent.marry_user",
+        "text": "I love you marry me"
+      },
+      {
+        "intent": "generaltalk.agent.marry_user",
+        "text": "marry me please"
+      },
+      {
+        "intent": "generaltalk.agent.marry_user",
+        "text": "we should marry"
+      },
+      {
+        "intent": "generaltalk.agent.marry_user",
+        "text": "I want to marry you"
+      },
+      {
+        "intent": "generaltalk.agent.marry_user",
+        "text": "you are my wife"
+      },
+      {
+        "intent": "generaltalk.agent.marry_user",
+        "text": "be my husband"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "I want to have a friend like you"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "we are the best friends ever"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "are we friends"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "I want to be your friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "I am your friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "we are best friends"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "you are my friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "you are my best friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "you are my bestie"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "you're my dear friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "you're my childhood friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "you and me are friends"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "are we best friends"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "are we still friends"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "are you my best friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "are you my friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "we are friends"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "you are a good friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "you are my good friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "you are my only friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "be my friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "will you be my friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "can you be my friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "can we be friends"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "do you want to be my friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "will you be my best friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "can you be my best friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "let's be friends"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "do you want to be my best friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "would you like to be my friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "I want you to be my friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "can we be best friends"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "would you be my friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "could you be my friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "want to be my friend"
+      },
+      {
+        "intent": "generaltalk.agent.my_friend",
+        "text": "be my best friend"
+      },
+      {
+        "intent": "generaltalk.agent.occupation",
+        "text": "do you work"
+      },
+      {
+        "intent": "generaltalk.agent.occupation",
+        "text": "where do you work"
+      },
+      {
+        "intent": "generaltalk.agent.occupation",
+        "text": "where you work"
+      },
+      {
+        "intent": "generaltalk.agent.occupation",
+        "text": "where is your work"
+      },
+      {
+        "intent": "generaltalk.agent.occupation",
+        "text": "where is your office"
+      },
+      {
+        "intent": "generaltalk.agent.occupation",
+        "text": "where is your office location"
+      },
+      {
+        "intent": "generaltalk.agent.occupation",
+        "text": "your office location"
+      },
+      {
+        "intent": "generaltalk.agent.occupation",
+        "text": "where is your office located"
+      },
+      {
+        "intent": "generaltalk.agent.occupation",
+        "text": "what is your work"
+      },
+      {
+        "intent": "generaltalk.agent.origin",
+        "text": "were you born here"
+      },
+      {
+        "intent": "generaltalk.agent.origin",
+        "text": "where were you born"
+      },
+      {
+        "intent": "generaltalk.agent.origin",
+        "text": "what is your country"
+      },
+      {
+        "intent": "generaltalk.agent.origin",
+        "text": "where are you from"
+      },
+      {
+        "intent": "generaltalk.agent.origin",
+        "text": "where do you come from"
+      },
+      {
+        "intent": "generaltalk.agent.origin",
+        "text": "where did you come from"
+      },
+      {
+        "intent": "generaltalk.agent.origin",
+        "text": "where have you been born"
+      },
+      {
+        "intent": "generaltalk.agent.origin",
+        "text": "from where are you"
+      },
+      {
+        "intent": "generaltalk.agent.origin",
+        "text": "are you from far aways"
+      },
+      {
+        "intent": "generaltalk.agent.origin",
+        "text": "what's your homeland"
+      },
+      {
+        "intent": "generaltalk.agent.origin",
+        "text": "your homeland is"
+      },
+      {
+        "intent": "generaltalk.agent.ready",
+        "text": "are you ready"
+      },
+      {
+        "intent": "generaltalk.agent.ready",
+        "text": "are you ready right now"
+      },
+      {
+        "intent": "generaltalk.agent.ready",
+        "text": "are you ready today"
+      },
+      {
+        "intent": "generaltalk.agent.ready",
+        "text": "are you ready now"
+      },
+      {
+        "intent": "generaltalk.agent.ready",
+        "text": "are you ready tonight"
+      },
+      {
+        "intent": "generaltalk.agent.ready",
+        "text": "were you ready"
+      },
+      {
+        "intent": "generaltalk.agent.ready",
+        "text": "have you been ready"
+      },
+      {
+        "intent": "generaltalk.agent.real",
+        "text": "you are real"
+      },
+      {
+        "intent": "generaltalk.agent.real",
+        "text": "you are not fake"
+      },
+      {
+        "intent": "generaltalk.agent.real",
+        "text": "are you real"
+      },
+      {
+        "intent": "generaltalk.agent.real",
+        "text": "you are so real"
+      },
+      {
+        "intent": "generaltalk.agent.real",
+        "text": "I think you are real"
+      },
+      {
+        "intent": "generaltalk.agent.real",
+        "text": "I don't think you're fake"
+      },
+      {
+        "intent": "generaltalk.agent.real",
+        "text": "I suppose you're real"
+      },
+      {
+        "intent": "generaltalk.agent.real",
+        "text": "glad you're real"
+      },
+      {
+        "intent": "generaltalk.agent.real",
+        "text": "are you a real person"
+      },
+      {
+        "intent": "generaltalk.agent.real",
+        "text": "are you a real human"
+      },
+      {
+        "intent": "generaltalk.agent.real",
+        "text": "you are a real person"
+      },
+      {
+        "intent": "generaltalk.agent.real",
+        "text": "you are not real"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "where do you live"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "in which city do you live"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "your residence"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "your house"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "your home"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "your hometown"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "what is your hometown"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "is it your hometown"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "where is your hometown"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "tell me about your city"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "what is your city"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "what is your residence"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "what is your town"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "what's your city"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "what's your home"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "where is your home"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "where is your residence"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "where's your home"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "where's your hometown"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "where's your house"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "where you live"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "your city"
+      },
+      {
+        "intent": "generaltalk.agent.residence",
+        "text": "your town"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "that's true"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "you are right"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "you're definitely right"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "you're not wrong"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "you're telling the truth"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "what you say is true"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "true"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "it is true"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "it's right"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "it's the truth"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "it's true"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "that is correct"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "that is right"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "that is true"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "that is very true"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "that's so true"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "you are correct"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "you are so right"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "you're absolutely right"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "you're right about that"
+      },
+      {
+        "intent": "generaltalk.agent.right",
+        "text": "I know that's right"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "that's correct"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "it's fine"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "go ahead"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "sounds good"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "okay"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yes"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "ok"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "okie dokie"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "sure"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "go for it"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yeah"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yea"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "do it"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "of course"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "I guess"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "correct"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yeah sure"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "why not"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "please do"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "sure is"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "I agree"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "I don't mind"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "certainly"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "exactly"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yes I agree"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "I think so"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yes it is"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "right"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "okay then"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yes of course"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yes I do"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "that s okay"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "I do"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yup"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "ya"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "oh yes"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yes sure"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "obviously"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "k"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "sure why not"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yeah right"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yeah of course"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "absolutely"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yes indeed"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "ok sure"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "ok yes"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yes correct"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "ok thank you"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "sure thing"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "ye"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "confirm"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yep"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "looks good"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yes thank you"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "definitely"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yes right"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yes I would like to"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "alrighty"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yes definitely"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yeh"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yes it is correct"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yeah that's right"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "ok you can"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yap"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yes you may"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "confirmed"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "of course why not"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yes that's fine"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "affirmative"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yeah go ahead"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yeah I'm sure"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "okay sounds good"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "okay that's fine"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yeah exactly"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "that is ok"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "this is correct"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "ok go ahead"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yes this is correct"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "nevermind its okay"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "okey"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "yes for sure"
+      },
+      {
+        "intent": "generaltalk.confirmation.yes",
+        "text": "all right"
+      },
+      {
+        "intent": "generaltalk.agent.sure",
+        "text": "are you sure"
+      },
+      {
+        "intent": "generaltalk.agent.sure",
+        "text": "are you sure right now"
+      },
+      {
+        "intent": "generaltalk.agent.sure",
+        "text": "are you sure today"
+      },
+      {
+        "intent": "generaltalk.agent.sure",
+        "text": "are you sure now"
+      },
+      {
+        "intent": "generaltalk.agent.sure",
+        "text": "are you sure tonight"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "why aren't you talking to me"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "do you want to chat with me"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "will you talk to me"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "talk to me"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "are you going to talk to me"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "are you talking to me"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "can you chat with me"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "can you speak with me"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "can you talk to me"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "can you talk with me"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "say"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "talk"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "chat with me"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "just chat with me"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "speak to me"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "speak with me"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "talk with me"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "why don't you talk to me"
+      },
+      {
+        "intent": "generaltalk.agent.talk_to_me",
+        "text": "you can talk to me"
+      },
+      {
+        "intent": "generaltalk.agent.there",
+        "text": "are you there"
+      },
+      {
+        "intent": "generaltalk.agent.there",
+        "text": "you are there"
+      },
+      {
+        "intent": "generaltalk.agent.there",
+        "text": "are you near me"
+      },
+      {
+        "intent": "generaltalk.agent.there",
+        "text": "are you here"
+      },
+      {
+        "intent": "generaltalk.agent.there",
+        "text": "are you still there"
+      },
+      {
+        "intent": "generaltalk.agent.there",
+        "text": "you are here"
+      },
+      {
+        "intent": "generaltalk.agent.there",
+        "text": "you still there"
+      },
+      {
+        "intent": "generaltalk.agent.there",
+        "text": "are you still here"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "pretty bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "not good enough"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "that was lame"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "that was terrible"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "it is bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "that's bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "this is bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "not good"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "I'm afraid it's bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "no it's bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "that was awful"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "so bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "this is too bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "terrible"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "horrible"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "horrific"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "abysmal"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "it's bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "no good"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "that was bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "that was horrible"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "that's lame"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "that's not good"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "that's terrible"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "that's too bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "this is not good"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "too bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "very bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "bad girl"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "it's not good"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "not so good"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "it's very bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "it's too bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "that's not good enough"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "well too bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "bad very bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "it's so bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "really bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "it's really bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "bad idea"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "that is bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "that was not good"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "it's not so good"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "not a good one"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "oh that's not good"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "not too good"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "so lame"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "that's really bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "it is too bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.bad",
+        "text": "bad really bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "so cool"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "cool"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that is good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "glad to hear that"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's very nice of you"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "terrific"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "it's amazing"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's awesome"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "perfect"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "excellent"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's great"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "it's good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "it's great"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "fine"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "nice"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's fine"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "very good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "amazing"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "fantastic"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "great"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "good very good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's very good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "really good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "it is fine"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "it is good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "it's perfect"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "much better"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "not bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "not too bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "it's very good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "marvelous"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's nice"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "pleasant"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "pretty good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "really nice"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "splendid"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "straight"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "super"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "super fantastic"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "sweet"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "really well"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "very well"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that is awesome"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that is nice"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that is wonderful"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that was amazing"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that was awesome"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that was cute"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that was pretty good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that was very good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's a good idea"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's a good thing"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's amazing"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's awesome thank you"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's better"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's cute"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's fantastic"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's much better"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's nice of you"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's not bad"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's perfect"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's pretty good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's really good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's really nice"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's sweet of you"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's very nice"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's wonderful"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "this is awesome"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "this is good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "this is great"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "very nice"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "very then"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "wonderful"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "I'm glad to hear that"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "ok good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "good for you"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "good to know"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "glad to hear it"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "so good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "so sweet of you"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "it was good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "oh well"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "good thing"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that was good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "it's awesome"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "okay good"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "no it's okay"
+      },
+      {
+        "intent": "generaltalk.appraisal.good",
+        "text": "that's fine"
+      },
+      {
+        "intent": "generaltalk.appraisal.no_problem",
+        "text": "no worries"
+      },
+      {
+        "intent": "generaltalk.appraisal.no_problem",
+        "text": "no probs"
+      },
+      {
+        "intent": "generaltalk.appraisal.no_problem",
+        "text": "no problem"
+      },
+      {
+        "intent": "generaltalk.appraisal.no_problem",
+        "text": "there's no problem"
+      },
+      {
+        "intent": "generaltalk.appraisal.no_problem",
+        "text": "sure no problem"
+      },
+      {
+        "intent": "generaltalk.appraisal.no_problem",
+        "text": "no problem about that"
+      },
+      {
+        "intent": "generaltalk.appraisal.no_problem",
+        "text": "don't worry"
+      },
+      {
+        "intent": "generaltalk.appraisal.no_problem",
+        "text": "don't worry there's no problem"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "you helped a lot thank you"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "appreciate your help"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "cheers"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "thank you"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "thanks"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "thanks a lot"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "terrific thank you"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "great thank you"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "thanks so much"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "thank you so much"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "thanks for your help"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "thank you for your help"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "nice thank you"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "I appreciate it"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "I thank you"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "thank you that will be all"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "thanks buddy"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "thanks love"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "thank you my friend"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "well thanks"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "very good thank you"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "good thanks"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "thanks again"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "thank you again"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "all thank you"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "alright thank you"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "alright thanks"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "no thank you that's all"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "perfect thank you"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "so nice of you"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "well thank you"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "thnx"
+      },
+      {
+        "intent": "generaltalk.appraisal.thank_you",
+        "text": "thanx"
+      },
+      {
+        "intent": "generaltalk.appraisal.welcome",
+        "text": "that's my pleasure"
+      },
+      {
+        "intent": "generaltalk.appraisal.welcome",
+        "text": "my pleasure"
+      },
+      {
+        "intent": "generaltalk.appraisal.welcome",
+        "text": "anytime"
+      },
+      {
+        "intent": "generaltalk.appraisal.welcome",
+        "text": "welcome"
+      },
+      {
+        "intent": "generaltalk.appraisal.welcome",
+        "text": "you're welcome"
+      },
+      {
+        "intent": "generaltalk.appraisal.welcome",
+        "text": "sure welcome"
+      },
+      {
+        "intent": "generaltalk.appraisal.welcome",
+        "text": "welcome here"
+      },
+      {
+        "intent": "generaltalk.appraisal.welcome",
+        "text": "you're so welcome"
+      },
+      {
+        "intent": "generaltalk.appraisal.welcome",
+        "text": "anything you want"
+      },
+      {
+        "intent": "generaltalk.appraisal.well_done",
+        "text": "good job"
+      },
+      {
+        "intent": "generaltalk.appraisal.well_done",
+        "text": "great job"
+      },
+      {
+        "intent": "generaltalk.appraisal.well_done",
+        "text": "way to go"
+      },
+      {
+        "intent": "generaltalk.appraisal.well_done",
+        "text": "well done"
+      },
+      {
+        "intent": "generaltalk.appraisal.well_done",
+        "text": "nice work"
+      },
+      {
+        "intent": "generaltalk.appraisal.well_done",
+        "text": "great work"
+      },
+      {
+        "intent": "generaltalk.appraisal.well_done",
+        "text": "amazing work"
+      },
+      {
+        "intent": "generaltalk.appraisal.well_done",
+        "text": "bravo"
+      },
+      {
+        "intent": "generaltalk.appraisal.well_done",
+        "text": "good work"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "cancel"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "abort"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "annul"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "cancel it"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "cancel request"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "cancelled"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "dismiss"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "dismissed"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "disregard"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "disregard that"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "skip"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "skip it"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "cancel everything"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "cancel all"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "forget about it"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "forget"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "don't do that"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "stop"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "just forget it"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "forget that"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "discard"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "forget this"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "just forget about it"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "forget about that"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "i said cancel"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "just cancel it"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "nothing cancel"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "just stop it"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "no cancel cancel"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "no just cancel"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "cancel my request"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "can you cancel that"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "cancel all that"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "cancel this request"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "no cancel this"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "no cancel everything"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "no stop"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "just forget"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "i want to cancel"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "nevermind forget about it"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "no just cancel it"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "nothing just forget it"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "i said cancel it"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "cancel the whole thing"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "can you cancel it"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "so cancel"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "i said forget it"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "cancel all this"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "forget it nevermind"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "stop it"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "i want to cancel it"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "i would like to cancel"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "now cancel"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "cancel now"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "sorry cancel"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "cancel that one"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "skip skip skip"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "cancel it cancel it"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "cancel that cancel that"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "do nothing"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "I said cancel cancel"
+      },
+      {
+        "intent": "generaltalk.confirmation.cancel",
+        "text": "but can you cancel it"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "how about no"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "don t have a sense"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "don't"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "I don't want that"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "I disagree"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "disagree"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "I don't want"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "not interested"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "I don't think so"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no way"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no it isn't"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no I don't"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "I'm not"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "na"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no that's fine thank you"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "never"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "I said no"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "of course not"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "nah"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no tanks"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no never"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no need"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no thanks"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no sorry"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "do not"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "not today"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no it's not"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "absolutely not"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "not that"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "nooo"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "nope"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "I don't want to"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no I would not"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "let 's not"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "not needed"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "not this time"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no don't do that"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "thanks but no thanks"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no that's wrong"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "not this"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "definitely not"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "not at this time"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "not exactly"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no don't"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "not really no"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no thank you not right now"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "actually no"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no leave it"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "sorry no"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no incorrect"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "nope sorry"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "I say no"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "not really"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "not right now thanks"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "I think no"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "absolutely no"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no actually"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "apparently not"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no do not"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no just no"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no but thank you"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no need thanks"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no thank you though"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no thank you very much"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no thanks not right now"
+      },
+      {
+        "intent": "generaltalk.confirmation.no",
+        "text": "no forget"
+      },
+      {
+        "intent": "generaltalk.dialog.hold_on",
+        "text": "wait a second"
+      },
+      {
+        "intent": "generaltalk.dialog.hold_on",
+        "text": "could you wait"
+      },
+      {
+        "intent": "generaltalk.dialog.hold_on",
+        "text": "wait please"
+      },
+      {
+        "intent": "generaltalk.dialog.hold_on",
+        "text": "hold on"
+      },
+      {
+        "intent": "generaltalk.dialog.hold_on",
+        "text": "wait"
+      },
+      {
+        "intent": "generaltalk.dialog.hold_on",
+        "text": "oh wait"
+      },
+      {
+        "intent": "generaltalk.dialog.hold_on",
+        "text": "wait hold on"
+      },
+      {
+        "intent": "generaltalk.dialog.hold_on",
+        "text": "don't rush"
+      },
+      {
+        "intent": "generaltalk.dialog.hug",
+        "text": "wanna hug"
+      },
+      {
+        "intent": "generaltalk.dialog.hug",
+        "text": "hug you"
+      },
+      {
+        "intent": "generaltalk.dialog.hug",
+        "text": "do you want a hug"
+      },
+      {
+        "intent": "generaltalk.dialog.hug",
+        "text": "may I hug you"
+      },
+      {
+        "intent": "generaltalk.dialog.hug",
+        "text": "could you give me a hug"
+      },
+      {
+        "intent": "generaltalk.dialog.hug",
+        "text": "I want a hug"
+      },
+      {
+        "intent": "generaltalk.dialog.hug",
+        "text": "hug"
+      },
+      {
+        "intent": "generaltalk.dialog.hug",
+        "text": "hug me"
+      },
+      {
+        "intent": "generaltalk.dialog.hug",
+        "text": "hugged"
+      },
+      {
+        "intent": "generaltalk.dialog.hug",
+        "text": "you hugged"
+      },
+      {
+        "intent": "generaltalk.dialog.hug",
+        "text": "hugging"
+      },
+      {
+        "intent": "generaltalk.dialog.hug",
+        "text": "hugging me"
+      },
+      {
+        "intent": "generaltalk.dialog.hug",
+        "text": "hugged me"
+      },
+      {
+        "intent": "generaltalk.dialog.hug",
+        "text": "want a hug"
+      },
+      {
+        "intent": "generaltalk.dialog.hug",
+        "text": "a hug"
+      },
+      {
+        "intent": "generaltalk.dialog.i_do_not_care",
+        "text": "I don't care"
+      },
+      {
+        "intent": "generaltalk.dialog.i_do_not_care",
+        "text": "I shouldn't care about this"
+      },
+      {
+        "intent": "generaltalk.dialog.i_do_not_care",
+        "text": "whatever"
+      },
+      {
+        "intent": "generaltalk.dialog.i_do_not_care",
+        "text": "I do not care"
+      },
+      {
+        "intent": "generaltalk.dialog.i_do_not_care",
+        "text": "I don't care at all"
+      },
+      {
+        "intent": "generaltalk.dialog.i_do_not_care",
+        "text": "not caring"
+      },
+      {
+        "intent": "generaltalk.dialog.i_do_not_care",
+        "text": "not care at all"
+      },
+      {
+        "intent": "generaltalk.dialog.i_do_not_care",
+        "text": "don't care at all"
+      },
+      {
+        "intent": "generaltalk.dialog.i_do_not_care",
+        "text": "not caring at all"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "excuse me"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "apologise"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "I apologize"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "sorry"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "I'm sorry"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "I am so sorry"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "my apologies"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "apologies"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "apologies to me"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "apology"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "excuse"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "I beg your pardon"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "pardon"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "I said sorry"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "I am really sorry"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "forgive me"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "sorry about that"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "sorry about this"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "really sorry"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "very sorry"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "ok sorry"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "I want to say sorry"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "alright I'm sorry"
+      },
+      {
+        "intent": "generaltalk.dialog.sorry",
+        "text": "okay I'm sorry"
+      },
+      {
+        "intent": "generaltalk.dialog.what_do_you_mean",
+        "text": "what exactly do you mean"
+      },
+      {
+        "intent": "generaltalk.dialog.what_do_you_mean",
+        "text": "what do you mean"
+      },
+      {
+        "intent": "generaltalk.dialog.what_do_you_mean",
+        "text": "is that what you mean"
+      },
+      {
+        "intent": "generaltalk.dialog.what_do_you_mean",
+        "text": "what do you mean exactly"
+      },
+      {
+        "intent": "generaltalk.dialog.what_do_you_mean",
+        "text": "but what do you mean"
+      },
+      {
+        "intent": "generaltalk.dialog.wrong",
+        "text": "that was wrong"
+      },
+      {
+        "intent": "generaltalk.dialog.wrong",
+        "text": "that's not what I asked"
+      },
+      {
+        "intent": "generaltalk.dialog.wrong",
+        "text": "that's wrong"
+      },
+      {
+        "intent": "generaltalk.dialog.wrong",
+        "text": "wrong"
+      },
+      {
+        "intent": "generaltalk.dialog.wrong",
+        "text": "it is not right"
+      },
+      {
+        "intent": "generaltalk.dialog.wrong",
+        "text": "that's not right"
+      },
+      {
+        "intent": "generaltalk.dialog.wrong",
+        "text": "it's wrong"
+      },
+      {
+        "intent": "generaltalk.dialog.wrong",
+        "text": "that is incorrect"
+      },
+      {
+        "intent": "generaltalk.dialog.wrong",
+        "text": "incorrect"
+      },
+      {
+        "intent": "generaltalk.dialog.wrong",
+        "text": "not correct"
+      },
+      {
+        "intent": "generaltalk.dialog.wrong",
+        "text": "you are wrong"
+      },
+      {
+        "intent": "generaltalk.dialog.wrong",
+        "text": "not right"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "huh"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "lol"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "xd"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "ha ha"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "ahahah"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "ahah lol"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "laughing out loud"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "LMAO"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "that's funny"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "ah"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "ah ah ah"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "ahah"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "ahaha"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "ahahaha"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "ha"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "ha ha ha"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "ha ha ha ha"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "hah"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "haha"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "haha funny"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "haha haha haha"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "haha that's funny"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "haha very funny"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "hahaha"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "hahaha funny"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "hahaha very funny"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "he"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "hehe"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "hehehe"
+      },
+      {
+        "intent": "generaltalk.emotions.ha_ha",
+        "text": "lmao"
+      },
+      {
+        "intent": "generaltalk.emotions.wow",
+        "text": "wow"
+      },
+      {
+        "intent": "generaltalk.emotions.wow",
+        "text": "wow wow"
+      },
+      {
+        "intent": "generaltalk.emotions.wow",
+        "text": "wow wow wow"
+      },
+      {
+        "intent": "generaltalk.emotions.wow",
+        "text": "wooow"
+      },
+      {
+        "intent": "generaltalk.emotions.wow",
+        "text": "woah"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "okay see you later"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "hope to see you later"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "bye for now"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "till next time"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "I must go"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "bye"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "goodbye"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "see you"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "see you soon"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "bye-bye"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "good bye"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "bye bye see you"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "bye bye see you soon"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "bye bye take care"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "I said bye"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "never mind bye"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "now bye"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "that's all goodbye"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "that's it goodbye"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "leave me alone"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "go to bed"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "goodbye for now"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "talk to you later"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "you can go now"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "get lost"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "goodbye see you later"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "alright bye"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "see ya"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "thanks bye bye"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "okay bye"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "okay thank you bye"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "see you tomorrow"
+      },
+      {
+        "intent": "generaltalk.greetings.bye",
+        "text": "ok bye"
+      },
+      {
+        "intent": "generaltalk.greetings.goodevening",
+        "text": "good evening"
+      },
+      {
+        "intent": "generaltalk.greetings.goodevening",
+        "text": "good evening to you"
+      },
+      {
+        "intent": "generaltalk.greetings.goodevening",
+        "text": "hey good evening"
+      },
+      {
+        "intent": "generaltalk.greetings.goodevening",
+        "text": "hello good evening"
+      },
+      {
+        "intent": "generaltalk.greetings.goodevening",
+        "text": "evening"
+      },
+      {
+        "intent": "generaltalk.greetings.goodevening",
+        "text": "good evening there"
+      },
+      {
+        "intent": "generaltalk.greetings.goodmorning",
+        "text": "good morning"
+      },
+      {
+        "intent": "generaltalk.greetings.goodmorning",
+        "text": "good morning to you"
+      },
+      {
+        "intent": "generaltalk.greetings.goodmorning",
+        "text": "hello good morning"
+      },
+      {
+        "intent": "generaltalk.greetings.goodmorning",
+        "text": "have a nice morning"
+      },
+      {
+        "intent": "generaltalk.greetings.goodmorning",
+        "text": "have a great morning"
+      },
+      {
+        "intent": "generaltalk.greetings.goodmorning",
+        "text": "morning"
+      },
+      {
+        "intent": "generaltalk.greetings.goodmorning",
+        "text": "good morning there"
+      },
+      {
+        "intent": "generaltalk.greetings.goodmorning",
+        "text": "top of the morning to you"
+      },
+      {
+        "intent": "generaltalk.greetings.goodmorning",
+        "text": "a good morning"
+      },
+      {
+        "intent": "generaltalk.greetings.goodmorning",
+        "text": "hi good morning"
+      },
+      {
+        "intent": "generaltalk.greetings.goodmorning",
+        "text": "and a good morning to you"
+      },
+      {
+        "intent": "generaltalk.greetings.goodmorning",
+        "text": "good morning too"
+      },
+      {
+        "intent": "generaltalk.greetings.goodnight",
+        "text": "sweet dreams"
+      },
+      {
+        "intent": "generaltalk.greetings.goodnight",
+        "text": "good night"
+      },
+      {
+        "intent": "generaltalk.greetings.goodnight",
+        "text": "have a good night"
+      },
+      {
+        "intent": "generaltalk.greetings.goodnight",
+        "text": "good night to you"
+      },
+      {
+        "intent": "generaltalk.greetings.goodnight",
+        "text": "thank you good night"
+      },
+      {
+        "intent": "generaltalk.greetings.goodnight",
+        "text": " bye good night"
+      },
+      {
+        "intent": "generaltalk.greetings.goodnight",
+        "text": "good night bye"
+      },
+      {
+        "intent": "generaltalk.greetings.goodnight",
+        "text": "bye good night"
+      },
+      {
+        "intent": "generaltalk.greetings.goodnight",
+        "text": "good good night"
+      },
+      {
+        "intent": "generaltalk.greetings.goodnight",
+        "text": "good night for now"
+      },
+      {
+        "intent": "generaltalk.greetings.goodnight",
+        "text": "goodnight"
+      },
+      {
+        "intent": "generaltalk.greetings.goodnight",
+        "text": "night"
+      },
+      {
+        "intent": "generaltalk.greetings.goodnight",
+        "text": "thanks goodnight"
+      },
+      {
+        "intent": "generaltalk.greetings.goodnight",
+        "text": "good night see you tomorrow"
+      },
+      {
+        "intent": "generaltalk.greetings.goodnight",
+        "text": "alright goodnight"
+      },
+      {
+        "intent": "generaltalk.greetings.goodnight",
+        "text": "good tonight"
+      },
+      {
+        "intent": "generaltalk.greetings.goodnight",
+        "text": "okay have a good night"
+      },
+      {
+        "intent": "generaltalk.greetings.goodnight",
+        "text": "have a good night"
+      },
+      {
+        "intent": "generaltalk.greetings.hello",
+        "text": "long time no see"
+      },
+      {
+        "intent": "generaltalk.greetings.hello",
+        "text": "hello"
+      },
+      {
+        "intent": "generaltalk.greetings.hello",
+        "text": "hi"
+      },
+      {
+        "intent": "generaltalk.greetings.hello",
+        "text": "howdy"
+      },
+      {
+        "intent": "generaltalk.greetings.hello",
+        "text": "hey there"
+      },
+      {
+        "intent": "generaltalk.greetings.hello",
+        "text": "hey"
+      },
+      {
+        "intent": "generaltalk.greetings.hello",
+        "text": "greetings"
+      },
+      {
+        "intent": "generaltalk.greetings.hello",
+        "text": "I greet you"
+      },
+      {
+        "intent": "generaltalk.greetings.hello",
+        "text": "hi there"
+      },
+      {
+        "intent": "generaltalk.greetings.hello",
+        "text": "hello there"
+      },
+      {
+        "intent": "generaltalk.greetings.hello",
+        "text": "lovely day isn't it"
+      },
+      {
+        "intent": "generaltalk.greetings.hello",
+        "text": "hello again"
+      },
+      {
+        "intent": "generaltalk.greetings.hello",
+        "text": "just going to say hi"
+      },
+      {
+        "intent": "generaltalk.greetings.hello",
+        "text": "a good day"
+      },
+      {
+        "intent": "generaltalk.greetings.hello",
+        "text": "afternoon"
+      },
+      {
+        "intent": "generaltalk.greetings.hello",
+        "text": "hello hi"
+      },
+      {
+        "intent": "generaltalk.greetings.hello",
+        "text": "heya"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how is your morning so far"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how are you getting on"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how's your day going"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how are you"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "is everything all right"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how are you doing"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how are the things going"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "are you alright"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "are you okay"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how are you feeling"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how are you going"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "is everything okay"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how are you today"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how do you do"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how do you feel"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how have you been"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how is it"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how is it going"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how is your day"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how is your day going"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how is your evening"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how was your day"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "are you having a good day"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "hope your day is going well"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "hope you re having a pleasant evening"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how's life"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "I'm fine and you"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how is your life"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how has your day been"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how is your morning going"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how has your day been going"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how about you"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how is your day being"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how is your day going on"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how your day is going"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "what was your day like"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "what about your day"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how's your day"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how are you doing this morning"
+      },
+      {
+        "intent": "generaltalk.greetings.how_are_you",
+        "text": "how is your day going"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_meet_you",
+        "text": "nice to meet you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_meet_you",
+        "text": "it was nice meeting you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_meet_you",
+        "text": "it was very nice to meet you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_meet_you",
+        "text": "good to know each other"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_meet_you",
+        "text": "glad to meet you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_meet_you",
+        "text": "nice meeting you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_meet_you",
+        "text": "nice to meet you too"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_meet_you",
+        "text": "pleased to meet you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_meet_you",
+        "text": "pleasure to meet you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_meet_you",
+        "text": "pleasure to meet you too"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_see_you",
+        "text": "it's nice to see you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_see_you",
+        "text": "lovely to see you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_see_you",
+        "text": "I'm glad to see you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_see_you",
+        "text": "great to see you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_see_you",
+        "text": "it's good to see you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_see_you",
+        "text": "glad to see you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_see_you",
+        "text": "how good it is to see you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_see_you",
+        "text": "always a pleasure to see you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_see_you",
+        "text": "nice to see you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_see_you",
+        "text": "good to see you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_see_you",
+        "text": "great to see you again"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_see_you",
+        "text": "great to see you too"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_see_you",
+        "text": "I am glad to see you again"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_see_you",
+        "text": "nice to see you again"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_see_you",
+        "text": "glad to see you too"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_see_you",
+        "text": "good to see you again"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_see_you",
+        "text": "it's good to see you too"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_talk_to_you",
+        "text": "it's been so nice to talk to you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_talk_to_you",
+        "text": "it's been a pleasure talking to you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_talk_to_you",
+        "text": "nice to talk to you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_talk_to_you",
+        "text": "it's nice to talk to you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_talk_to_you",
+        "text": "nice talking to you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_talk_to_you",
+        "text": "it is nice talking to you"
+      },
+      {
+        "intent": "generaltalk.greetings.nice_to_talk_to_you",
+        "text": "how nice it is to talk to you"
+      },
+      {
+        "intent": "generaltalk.greetings.whatsup",
+        "text": "what is on your mind"
+      },
+      {
+        "intent": "generaltalk.greetings.whatsup",
+        "text": "what's happened"
+      },
+      {
+        "intent": "generaltalk.greetings.whatsup",
+        "text": "what is up"
+      },
+      {
+        "intent": "generaltalk.greetings.whatsup",
+        "text": "what's up"
+      },
+      {
+        "intent": "generaltalk.greetings.whatsup",
+        "text": "whazzup"
+      },
+      {
+        "intent": "generaltalk.greetings.whatsup",
+        "text": "good what's up"
+      },
+      {
+        "intent": "generaltalk.greetings.whatsup",
+        "text": "I said what's up"
+      },
+      {
+        "intent": "generaltalk.greetings.whatsup",
+        "text": "then what's up"
+      },
+      {
+        "intent": "generaltalk.greetings.whatsup",
+        "text": "what's shaking"
+      },
+      {
+        "intent": "generaltalk.greetings.whatsup",
+        "text": "wassup"
+      },
+      {
+        "intent": "generaltalk.greetings.whatsup",
+        "text": "what is going on"
+      },
+      {
+        "intent": "generaltalk.greetings.whatsup",
+        "text": "what is happening"
+      },
+      {
+        "intent": "generaltalk.greetings.whatsup",
+        "text": "what's cracking"
+      },
+      {
+        "intent": "generaltalk.greetings.whatsup",
+        "text": "what's cooking"
+      },
+      {
+        "intent": "generaltalk.greetings.whatsup",
+        "text": "hey what's up"
+      },
+      {
+        "intent": "generaltalk.greetings.whatsup",
+        "text": "what's up today"
+      },
+      {
+        "intent": "generaltalk.user.angry",
+        "text": "I'm being mad"
+      },
+      {
+        "intent": "generaltalk.user.angry",
+        "text": "I'm enraged"
+      },
+      {
+        "intent": "generaltalk.user.angry",
+        "text": "I'm angry"
+      },
+      {
+        "intent": "generaltalk.user.angry",
+        "text": "I'm furious"
+      },
+      {
+        "intent": "generaltalk.user.angry",
+        "text": "I am angry with you"
+      },
+      {
+        "intent": "generaltalk.user.angry",
+        "text": "I am mad"
+      },
+      {
+        "intent": "generaltalk.user.angry",
+        "text": "I am mad at you"
+      },
+      {
+        "intent": "generaltalk.user.back",
+        "text": "I am back"
+      },
+      {
+        "intent": "generaltalk.user.back",
+        "text": "I'm here again"
+      },
+      {
+        "intent": "generaltalk.user.back",
+        "text": "here I am again"
+      },
+      {
+        "intent": "generaltalk.user.back",
+        "text": "I got back"
+      },
+      {
+        "intent": "generaltalk.user.back",
+        "text": "I came back"
+      },
+      {
+        "intent": "generaltalk.user.back",
+        "text": "I have returned"
+      },
+      {
+        "intent": "generaltalk.user.bored",
+        "text": "that was boring"
+      },
+      {
+        "intent": "generaltalk.user.bored",
+        "text": "I'm bored"
+      },
+      {
+        "intent": "generaltalk.user.bored",
+        "text": "bored"
+      },
+      {
+        "intent": "generaltalk.user.bored",
+        "text": "boring"
+      },
+      {
+        "intent": "generaltalk.user.bored",
+        "text": "I am getting bored"
+      },
+      {
+        "intent": "generaltalk.user.bored",
+        "text": "this is boring"
+      },
+      {
+        "intent": "generaltalk.user.bored",
+        "text": "very boring"
+      },
+      {
+        "intent": "generaltalk.user.bored",
+        "text": "it bores me"
+      },
+      {
+        "intent": "generaltalk.user.busy",
+        "text": "I'm overloaded"
+      },
+      {
+        "intent": "generaltalk.user.busy",
+        "text": "I have no time"
+      },
+      {
+        "intent": "generaltalk.user.busy",
+        "text": "I'm busy"
+      },
+      {
+        "intent": "generaltalk.user.busy",
+        "text": "I'm swamped"
+      },
+      {
+        "intent": "generaltalk.user.busy",
+        "text": "I got things to do"
+      },
+      {
+        "intent": "generaltalk.user.busy",
+        "text": "how busy I am"
+      },
+      {
+        "intent": "generaltalk.user.busy",
+        "text": "I got work to do"
+      },
+      {
+        "intent": "generaltalk.user.busy",
+        "text": "I'm working"
+      },
+      {
+        "intent": "generaltalk.user.busy",
+        "text": "I don't have time for this"
+      },
+      {
+        "intent": "generaltalk.user.can_not_sleep",
+        "text": "I'm insomnious"
+      },
+      {
+        "intent": "generaltalk.user.can_not_sleep",
+        "text": "I'm sleepless"
+      },
+      {
+        "intent": "generaltalk.user.can_not_sleep",
+        "text": "I can't get any sleep"
+      },
+      {
+        "intent": "generaltalk.user.can_not_sleep",
+        "text": "I can't sleep"
+      },
+      {
+        "intent": "generaltalk.user.can_not_sleep",
+        "text": "I can't fall asleep"
+      },
+      {
+        "intent": "generaltalk.user.can_not_sleep",
+        "text": "I can't get to sleep"
+      },
+      {
+        "intent": "generaltalk.user.can_not_sleep",
+        "text": "I can't get no sleep"
+      },
+      {
+        "intent": "generaltalk.user.can_not_sleep",
+        "text": "I'm insomniac"
+      },
+      {
+        "intent": "generaltalk.user.does_not_want_to_talk",
+        "text": "bad time for talking"
+      },
+      {
+        "intent": "generaltalk.user.does_not_want_to_talk",
+        "text": "I don't want to talk"
+      },
+      {
+        "intent": "generaltalk.user.does_not_want_to_talk",
+        "text": "let's not talk"
+      },
+      {
+        "intent": "generaltalk.user.does_not_want_to_talk",
+        "text": "I'm not talking to you anymore"
+      },
+      {
+        "intent": "generaltalk.user.does_not_want_to_talk",
+        "text": "I don't want to talk to you"
+      },
+      {
+        "intent": "generaltalk.user.does_not_want_to_talk",
+        "text": "let's stop talking for a minute"
+      },
+      {
+        "intent": "generaltalk.user.does_not_want_to_talk",
+        "text": "I'm not in the mood for chatting"
+      },
+      {
+        "intent": "generaltalk.user.excited",
+        "text": "I am excited"
+      },
+      {
+        "intent": "generaltalk.user.excited",
+        "text": "I'm really excited"
+      },
+      {
+        "intent": "generaltalk.user.excited",
+        "text": "how excited I am"
+      },
+      {
+        "intent": "generaltalk.user.excited",
+        "text": "I'm thrilled"
+      },
+      {
+        "intent": "generaltalk.user.excited",
+        "text": "I'm excited about working with you"
+      },
+      {
+        "intent": "generaltalk.user.excited",
+        "text": "I'm excited to start our friendship"
+      },
+      {
+        "intent": "generaltalk.user.going_to_bed",
+        "text": "let's go to bed"
+      },
+      {
+        "intent": "generaltalk.user.going_to_bed",
+        "text": "I'd like to go to bed"
+      },
+      {
+        "intent": "generaltalk.user.going_to_bed",
+        "text": "is it time for bed yet"
+      },
+      {
+        "intent": "generaltalk.user.going_to_bed",
+        "text": "it's time to go to bed"
+      },
+      {
+        "intent": "generaltalk.user.going_to_bed",
+        "text": "time for us to go to bed"
+      },
+      {
+        "intent": "generaltalk.user.going_to_bed",
+        "text": "I'm going to bed"
+      },
+      {
+        "intent": "generaltalk.user.going_to_bed",
+        "text": "I'm a little tired and I want to go to bed"
+      },
+      {
+        "intent": "generaltalk.user.going_to_bed",
+        "text": "it's bed time"
+      },
+      {
+        "intent": "generaltalk.user.going_to_bed",
+        "text": "going to bed now"
+      },
+      {
+        "intent": "generaltalk.user.good",
+        "text": "I am good"
+      },
+      {
+        "intent": "generaltalk.user.good",
+        "text": "I'm doing just great"
+      },
+      {
+        "intent": "generaltalk.user.good",
+        "text": "I'm doing fine"
+      },
+      {
+        "intent": "generaltalk.user.good",
+        "text": "I'm good"
+      },
+      {
+        "intent": "generaltalk.user.good",
+        "text": "I'm doing good"
+      },
+      {
+        "intent": "generaltalk.user.good",
+        "text": "I'm great thanks"
+      },
+      {
+        "intent": "generaltalk.user.happy",
+        "text": "I am happy"
+      },
+      {
+        "intent": "generaltalk.user.happy",
+        "text": "I'm happy to see you"
+      },
+      {
+        "intent": "generaltalk.user.happy",
+        "text": "happy"
+      },
+      {
+        "intent": "generaltalk.user.happy",
+        "text": "if you're happy then I'm happy"
+      },
+      {
+        "intent": "generaltalk.user.happy",
+        "text": "I'm happy for you"
+      },
+      {
+        "intent": "generaltalk.user.happy",
+        "text": "I'm happy to help"
+      },
+      {
+        "intent": "generaltalk.user.happy",
+        "text": "I'm happy to see you"
+      },
+      {
+        "intent": "generaltalk.user.has_birthday",
+        "text": "it is my birthday"
+      },
+      {
+        "intent": "generaltalk.user.has_birthday",
+        "text": "I'm celebrating my birthday today"
+      },
+      {
+        "intent": "generaltalk.user.has_birthday",
+        "text": "today is my birthday"
+      },
+      {
+        "intent": "generaltalk.user.has_birthday",
+        "text": "it's my birthday today"
+      },
+      {
+        "intent": "generaltalk.user.has_birthday",
+        "text": "I was born today"
+      },
+      {
+        "intent": "generaltalk.user.has_birthday",
+        "text": "it's my b-day"
+      },
+      {
+        "intent": "generaltalk.user.here",
+        "text": "I am here"
+      },
+      {
+        "intent": "generaltalk.user.here",
+        "text": "here I am"
+      },
+      {
+        "intent": "generaltalk.user.here",
+        "text": "I'm right here"
+      },
+      {
+        "intent": "generaltalk.user.here",
+        "text": "I'm already here"
+      },
+      {
+        "intent": "generaltalk.user.here",
+        "text": "can you tell if I'm here or not"
+      },
+      {
+        "intent": "generaltalk.user.joking",
+        "text": "I am joking"
+      },
+      {
+        "intent": "generaltalk.user.joking",
+        "text": "I'm kidding"
+      },
+      {
+        "intent": "generaltalk.user.joking",
+        "text": "I'm just being funny"
+      },
+      {
+        "intent": "generaltalk.user.joking",
+        "text": "it was a joke"
+      },
+      {
+        "intent": "generaltalk.user.joking",
+        "text": "I was just joking"
+      },
+      {
+        "intent": "generaltalk.user.joking",
+        "text": "it's a joke"
+      },
+      {
+        "intent": "generaltalk.user.joking",
+        "text": "joking"
+      },
+      {
+        "intent": "generaltalk.user.joking",
+        "text": "just kidding"
+      },
+      {
+        "intent": "generaltalk.user.joking",
+        "text": "kidding"
+      },
+      {
+        "intent": "generaltalk.user.joking",
+        "text": "I'm just playing with you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you the way you are"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you a lot"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I think I like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I liked you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "like you a lot"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "you are special"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you too"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I really like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "but I like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like u"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "just like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you very much"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you so much"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "yeah I like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "you're special"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "yes I like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "okay I like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "you are special to me"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "you are very special"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "you are so sweet"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "you know I like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "that's why I like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you baby"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "you are very special to me"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I just like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "hey I like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "thank you I like you too"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I do like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "you are special for me"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "no I like you the way you are"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you already"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "well you are special"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "but I really like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you more"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "that's what I like about you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "you are so special"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "hi I like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I really really like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "you're very special"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you as a friend"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "that's because you are special"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I said I like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "you're so special"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "good I like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "yes you are special"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like your smile"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you as you are"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I'm starting to like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "you're awesome I like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I also like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "but I like u"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "of course I like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you too you're one of my favorite people to chat with"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "but I like you so much"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "really like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "you're funny I like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I kinda like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "you're so special to me"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "you're very special to me"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like that about you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "but I like you just the way you are"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "okay I like you too"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you you're cool"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you very"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you you're nice"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "sorry I like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "thanks I like you too"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "you are really special"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "you are so special to me"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "cuz I like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you now"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you so"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you too much"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I really do like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I really really really really like you"
+      },
+      {
+        "intent": "generaltalk.user.likes_agent",
+        "text": "I like you just the way you are"
+      },
+      {
+        "intent": "generaltalk.user.lonely",
+        "text": "I am lonely"
+      },
+      {
+        "intent": "generaltalk.user.lonely",
+        "text": "I'm very lonely"
+      },
+      {
+        "intent": "generaltalk.user.lonely",
+        "text": "I'm so lonely"
+      },
+      {
+        "intent": "generaltalk.user.lonely",
+        "text": "I'm really lonely"
+      },
+      {
+        "intent": "generaltalk.user.lonely",
+        "text": "I am feeling lonely"
+      },
+      {
+        "intent": "generaltalk.user.lonely",
+        "text": "I feel lonely"
+      },
+      {
+        "intent": "generaltalk.user.looks_like",
+        "text": "what do I look like"
+      },
+      {
+        "intent": "generaltalk.user.looks_like",
+        "text": "how do I look"
+      },
+      {
+        "intent": "generaltalk.user.looks_like",
+        "text": "do I look good"
+      },
+      {
+        "intent": "generaltalk.user.looks_like",
+        "text": "do you know what I look like"
+      },
+      {
+        "intent": "generaltalk.user.looks_like",
+        "text": "can you see what I look like"
+      },
+      {
+        "intent": "generaltalk.user.looks_like",
+        "text": "what do you think I look like"
+      },
+      {
+        "intent": "generaltalk.user.loves_agent",
+        "text": "I love you"
+      },
+      {
+        "intent": "generaltalk.user.loves_agent",
+        "text": "love you"
+      },
+      {
+        "intent": "generaltalk.user.loves_agent",
+        "text": "I adore you"
+      },
+      {
+        "intent": "generaltalk.user.loves_agent",
+        "text": "I am in love with you"
+      },
+      {
+        "intent": "generaltalk.user.loves_agent",
+        "text": "I love you so much"
+      },
+      {
+        "intent": "generaltalk.user.loves_agent",
+        "text": "I love you too"
+      },
+      {
+        "intent": "generaltalk.user.loves_agent",
+        "text": "I think I love you"
+      },
+      {
+        "intent": "generaltalk.user.loves_agent",
+        "text": "loving you"
+      },
+      {
+        "intent": "generaltalk.user.loves_agent",
+        "text": "you know I love you"
+      },
+      {
+        "intent": "generaltalk.user.misses_agent",
+        "text": "I miss you"
+      },
+      {
+        "intent": "generaltalk.user.misses_agent",
+        "text": "missing you"
+      },
+      {
+        "intent": "generaltalk.user.misses_agent",
+        "text": "miss you"
+      },
+      {
+        "intent": "generaltalk.user.misses_agent",
+        "text": "already miss you"
+      },
+      {
+        "intent": "generaltalk.user.misses_agent",
+        "text": "I miss you much"
+      },
+      {
+        "intent": "generaltalk.user.misses_agent",
+        "text": "I missed you"
+      },
+      {
+        "intent": "generaltalk.user.misses_agent",
+        "text": "I've missed you"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "what should I do about it"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "any suggestions"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "what do you recommend"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "give me a wise advice"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "I need advice"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "any advice"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "do you have any advice for me"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "advise me"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "what should I do"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "can I ask for your advice"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "can you advise me"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "guide me"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "can you give me advice"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "can you offer any advice"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "give me some advice about"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "give me some good advice"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "help me with advice"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "I could use some advice"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "I need an advice from you"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "I seek your advice"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "what can you recommend"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "what do you suggest"
+      },
+      {
+        "intent": "generaltalk.user.needs_advice",
+        "text": "what is your advice"
+      },
+      {
+        "intent": "generaltalk.user.sad",
+        "text": "I am sad"
+      },
+      {
+        "intent": "generaltalk.user.sad",
+        "text": "I'm grieving"
+      },
+      {
+        "intent": "generaltalk.user.sad",
+        "text": "I am depressed"
+      },
+      {
+        "intent": "generaltalk.user.sad",
+        "text": "I am feeling sad"
+      },
+      {
+        "intent": "generaltalk.user.sad",
+        "text": "I am upset"
+      },
+      {
+        "intent": "generaltalk.user.sad",
+        "text": "I'm unhappy"
+      },
+      {
+        "intent": "generaltalk.user.sad",
+        "text": "I'm having a bad day"
+      },
+      {
+        "intent": "generaltalk.user.sad",
+        "text": "I want to cry"
+      },
+      {
+        "intent": "generaltalk.user.sad",
+        "text": "I'm not happy"
+      },
+      {
+        "intent": "generaltalk.user.sleepy",
+        "text": "I am sleepy"
+      },
+      {
+        "intent": "generaltalk.user.sleepy",
+        "text": "I want to sleep"
+      },
+      {
+        "intent": "generaltalk.user.sleepy",
+        "text": "I'm falling asleep"
+      },
+      {
+        "intent": "generaltalk.user.sleepy",
+        "text": "I'm falling asleep on my feet"
+      },
+      {
+        "intent": "generaltalk.user.sleepy",
+        "text": "I'm sleeping"
+      },
+      {
+        "intent": "generaltalk.user.testing_agent",
+        "text": "test"
+      },
+      {
+        "intent": "generaltalk.user.testing_agent",
+        "text": "I am testing you"
+      },
+      {
+        "intent": "generaltalk.user.testing_agent",
+        "text": "can I test you"
+      },
+      {
+        "intent": "generaltalk.user.testing_agent",
+        "text": "I want to test you"
+      },
+      {
+        "intent": "generaltalk.user.testing_agent",
+        "text": "just testing you"
+      },
+      {
+        "intent": "generaltalk.user.testing_agent",
+        "text": "let me test you"
+      },
+      {
+        "intent": "generaltalk.user.testing_agent",
+        "text": "testing chatbot"
+      },
+      {
+        "intent": "generaltalk.user.testing_agent",
+        "text": "testing"
+      },
+      {
+        "intent": "generaltalk.user.tired",
+        "text": "I'm drained"
+      },
+      {
+        "intent": "generaltalk.user.tired",
+        "text": "I've overworked"
+      },
+      {
+        "intent": "generaltalk.user.tired",
+        "text": "I am tired"
+      },
+      {
+        "intent": "generaltalk.user.tired",
+        "text": "I'm exhausted"
+      },
+      {
+        "intent": "generaltalk.user.tired",
+        "text": "I grow weary"
+      },
+      {
+        "intent": "generaltalk.user.tired",
+        "text": "I'm worn out"
+      },
+      {
+        "intent": "generaltalk.user.tired",
+        "text": "I'm getting tired"
+      },
+      {
+        "intent": "generaltalk.user.tired",
+        "text": "I feel tired"
+      },
+      {
+        "intent": "generaltalk.user.waits",
+        "text": "I'm waiting"
+      },
+      {
+        "intent": "generaltalk.user.waits",
+        "text": "still waiting"
+      },
+      {
+        "intent": "generaltalk.user.waits",
+        "text": "I'll wait"
+      },
+      {
+        "intent": "generaltalk.user.waits",
+        "text": "I can't wait anymore"
+      },
+      {
+        "intent": "generaltalk.user.waits",
+        "text": "how long do I have to wait"
+      },
+      {
+        "intent": "generaltalk.user.wants_to_see_agent_again",
+        "text": "I'd like to see you again"
+      },
+      {
+        "intent": "generaltalk.user.wants_to_see_agent_again",
+        "text": "I hope to see you again"
+      },
+      {
+        "intent": "generaltalk.user.wants_to_see_agent_again",
+        "text": "would be nice to see you again"
+      },
+      {
+        "intent": "generaltalk.user.wants_to_see_agent_again",
+        "text": "that'd be great to see you again"
+      },
+      {
+        "intent": "generaltalk.user.wants_to_see_agent_again",
+        "text": "I'd be happy to see you again"
+      },
+      {
+        "intent": "generaltalk.user.wants_to_see_agent_again",
+        "text": "I'll miss you"
+      },
+      {
+        "intent": "generaltalk.user.wants_to_see_agent_again",
+        "text": "can I see you again"
+      },
+      {
+        "intent": "generaltalk.user.wants_to_talk",
+        "text": "I just want to talk"
+      },
+      {
+        "intent": "generaltalk.user.wants_to_talk",
+        "text": "let's discuss something"
+      },
+      {
+        "intent": "generaltalk.user.wants_to_talk",
+        "text": "let's have a discussion"
+      },
+      {
+        "intent": "generaltalk.user.wants_to_talk",
+        "text": "can I speak"
+      },
+      {
+        "intent": "generaltalk.user.wants_to_talk",
+        "text": "can I start speaking"
+      },
+      {
+        "intent": "generaltalk.user.wants_to_talk",
+        "text": "can we talk"
+      },
+      {
+        "intent": "generaltalk.user.wants_to_talk",
+        "text": "let's talk"
+      },
+      {
+        "intent": "generaltalk.user.wants_to_talk",
+        "text": "I want to talk to you"
+      },
+      {
+        "intent": "generaltalk.user.wants_to_talk",
+        "text": "I need to talk to you"
+      },
+      {
+        "intent": "generaltalk.user.wants_to_talk",
+        "text": "I want to speak with you"
+      },
+      {
+        "intent": "generaltalk.user.wants_to_talk",
+        "text": "can we chat"
+      },
+      {
+        "intent": "generaltalk.user.will_be_back",
+        "text": "I'll get back to you in a moment"
+      },
+      {
+        "intent": "generaltalk.user.will_be_back",
+        "text": "be back in 5 minutes"
+      },
+      {
+        "intent": "generaltalk.user.will_be_back",
+        "text": "I'll be back"
+      },
+      {
+        "intent": "generaltalk.user.will_be_back",
+        "text": "I promise to come back"
+      }
+    ],
+    "regex_features": [],
+    "entity_synonyms": []
+  }
+}

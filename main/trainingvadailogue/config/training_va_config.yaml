@@ -1,0 +1,7 @@
+    data_file : "../generation/data/generaltalk.tsv"
+    responses_file: "../trainingnlu/data/responses.json"
+    domain_file : "./data/domain.yaml"
+    stories_file : "./data/stories.md"
+    generated_stories: "./output/generated_stories/"
+    dialogue_model : "./output/learning/dialogue"
+    nlu_model : "../trainingnlu/output/learning/default/onpremisebot"

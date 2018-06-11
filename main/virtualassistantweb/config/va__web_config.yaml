@@ -1,0 +1,2 @@
+    dialogue_model : "../trainingvadailogue/output/learning/dialogue"
+    nlu_model : "../trainingnlu/output/learning/default/onpremisebot"

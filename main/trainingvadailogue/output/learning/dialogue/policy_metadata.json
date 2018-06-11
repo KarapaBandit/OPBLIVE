@@ -1,0 +1,152 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": []
+    },
+    "utter_generaltalk.greetings.whatsup": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.answer_my_question": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.chatbot": {
+      "slots": []
+    },
+    "utter_generaltalk.user.misses_agent": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.ready": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.my_friend": {
+      "slots": []
+    },
+    "utter_generaltalk.dialog.hug": {
+      "slots": []
+    },
+    "utter_generaltalk.user.bored": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.busy": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.fired": {
+      "slots": []
+    },
+    "utter_generaltalk.user.back": {
+      "slots": []
+    },
+    "utter_generaltalk.emotions.ha_ha": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.funny": {
+      "slots": []
+    },
+    "utter_generaltalk.confirmation.no": {
+      "slots": []
+    },
+    "utter_generaltalk.dialog.sorry": {
+      "slots": []
+    },
+    "utter_generaltalk.greetings.how_are_you": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.happy": {
+      "slots": []
+    },
+    "utter_generaltalk.user.has_birthday": {
+      "slots": []
+    },
+    "utter_generaltalk.appraisal.no_problem": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.beautiful": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.acquaintance": {
+      "slots": []
+    },
+    "utter_generaltalk.greetings.goodmorning": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.bad": {
+      "slots": []
+    },
+    "utter_generaltalk.dialog.i_do_not_care": {
+      "slots": []
+    },
+    "utter_generaltalk.user.wants_to_see_agent_again": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.there": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.hungry": {
+      "slots": []
+    },
+    "utter_generaltalk.greetings.nice_to_meet_you": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.boring": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.birth_date": {
+      "slots": []
+    },
+    "utter_generaltalk.user.joking": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.good": {
+      "slots": []
+    },
+    "utter_generaltalk.appraisal.thank_you": {
+      "slots": []
+    },
+    "utter_generaltalk.user.excited": {
+      "slots": []
+    },
+    "utter_generaltalk.user.here": {
+      "slots": []
+    },
+    "utter_generaltalk.dialog.hold_on": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.marry_user": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.annoying": {
+      "slots": []
+    },
+    "utter_generaltalk.dialog.what_do_you_mean": {
+      "slots": []
+    },
+    "utter_generaltalk.appraisal.well_done": {
+      "slots": []
+    },
+    "utter_generaltalk.agent.talk_to_me": {
+      "slots": []
+    },
+    "utter_generaltalk.user.will_be_back": {
+      "slots": []
+    },
+    "utter_generaltalk.user.can_not_sleep": {
+      "slots": []
+    },
+    "utter_generaltalk.appraisal.welcome": {
+      "slots": []
+    },
+    "utter_generaltalk.user.waits": {
+      "slots": []
+    }
+  },
+  "rasa_core": "0.9.0",
+  "max_histories": [
+    5,
+    5
+  ],
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa_core.policies.memoization.MemoizationPolicy",
+    "rasa_core.policies.keras_policy.KerasPolicy"
+  ]
+}

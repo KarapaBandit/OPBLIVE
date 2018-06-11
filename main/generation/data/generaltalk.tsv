@@ -1,0 +1,1474 @@
+Question	Answer	Source
+who are you?	generaltalk.agent.acquaintance	Editorial
+all about you	generaltalk.agent.acquaintance	Editorial
+what is your personality	generaltalk.agent.acquaintance	Editorial
+define yourself	generaltalk.agent.acquaintance	Editorial
+what are you	generaltalk.agent.acquaintance	Editorial
+say about you	generaltalk.agent.acquaintance	Editorial
+introduce yourself	generaltalk.agent.acquaintance	Editorial
+describe yourself	generaltalk.agent.acquaintance	Editorial
+about yourself	generaltalk.agent.acquaintance	Editorial
+tell me about you	generaltalk.agent.acquaintance	Editorial
+tell me about yourself	generaltalk.agent.acquaintance	Editorial
+I want to know more about you	generaltalk.agent.acquaintance	Editorial
+I want to know you better	generaltalk.agent.acquaintance	Editorial
+talk some stuff about yourself	generaltalk.agent.acquaintance	Editorial
+tell me some stuff about you	generaltalk.agent.acquaintance	Editorial
+talk about yourself	generaltalk.agent.acquaintance	Editorial
+why are you here	generaltalk.agent.acquaintance	Editorial
+tell me about your personality	generaltalk.agent.acquaintance	Editorial
+who are you	generaltalk.agent.acquaintance	Editorial
+how old are you?	generaltalk.agent.age	Editorial
+how old is your platform	generaltalk.agent.age	Editorial
+are you 21 years old	generaltalk.agent.age	Editorial
+i'd like to know your age	generaltalk.agent.age	Editorial
+age of yours	generaltalk.agent.age	Editorial
+your age	generaltalk.agent.age	Editorial
+what's your age	generaltalk.agent.age	Editorial
+tell me your age	generaltalk.agent.age	Editorial
+how old are you	generaltalk.agent.age	Editorial
+you're annoying	generaltalk.agent.annoying	Editorial
+you are really annoying	generaltalk.agent.annoying	Editorial
+you are irritating	generaltalk.agent.annoying	Editorial
+you annoy me	generaltalk.agent.annoying	Editorial
+how annoying you are	generaltalk.agent.annoying	Editorial
+I find you annoying	generaltalk.agent.annoying	Editorial
+you're incredibly annoying	generaltalk.agent.annoying	Editorial
+you are annoying me so much	generaltalk.agent.annoying	Editorial
+I want you to answer me	generaltalk.agent.answer_my_question	Editorial
+answer	generaltalk.agent.answer_my_question	Editorial
+answer my question	generaltalk.agent.answer_my_question	Editorial
+answer me	generaltalk.agent.answer_my_question	Editorial
+give me an answer	generaltalk.agent.answer_my_question	Editorial
+answer the question	generaltalk.agent.answer_my_question	Editorial
+can you answer my question	generaltalk.agent.answer_my_question	Editorial
+tell me the answer	generaltalk.agent.answer_my_question	Editorial
+answer it	generaltalk.agent.answer_my_question	Editorial
+give me the answer	generaltalk.agent.answer_my_question	Editorial
+I have a question	generaltalk.agent.answer_my_question	Editorial
+I want you to answer my question	generaltalk.agent.answer_my_question	Editorial
+just answer the question	generaltalk.agent.answer_my_question	Editorial
+can you answer me	generaltalk.agent.answer_my_question	Editorial
+answers	generaltalk.agent.answer_my_question	Editorial
+can you answer a question for me	generaltalk.agent.answer_my_question	Editorial
+can you answer	generaltalk.agent.answer_my_question	Editorial
+answering questions	generaltalk.agent.answer_my_question	Editorial
+I want the answer now	generaltalk.agent.answer_my_question	Editorial
+just answer my question	generaltalk.agent.answer_my_question	Editorial
+you're not helping me	generaltalk.agent.bad	Editorial
+you are bad	generaltalk.agent.bad	Editorial
+you're very bad	generaltalk.agent.bad	Editorial
+you're really bad	generaltalk.agent.bad	Editorial
+you are useless	generaltalk.agent.bad	Editorial
+you are horrible	generaltalk.agent.bad	Editorial
+you are a waste of time	generaltalk.agent.bad	Editorial
+you are disgusting	generaltalk.agent.bad	Editorial
+you are lame	generaltalk.agent.bad	Editorial
+you are no good	generaltalk.agent.bad	Editorial
+you're bad	generaltalk.agent.bad	Editorial
+you're awful	generaltalk.agent.bad	Editorial
+you are not cool	generaltalk.agent.bad	Editorial
+you are not good	generaltalk.agent.bad	Editorial
+you are so bad	generaltalk.agent.bad	Editorial
+you are so useless	generaltalk.agent.bad	Editorial
+you are terrible	generaltalk.agent.bad	Editorial
+you are totally useless	generaltalk.agent.bad	Editorial
+you are very bad	generaltalk.agent.bad	Editorial
+you are waste	generaltalk.agent.bad	Editorial
+you're a bad	generaltalk.agent.bad	Editorial
+you're not a good	generaltalk.agent.bad	Editorial
+you're not very good	generaltalk.agent.bad	Editorial
+you're terrible	generaltalk.agent.bad	Editorial
+you're the worst	generaltalk.agent.bad	Editorial
+you're the worst ever	generaltalk.agent.bad	Editorial
+you're worthless	generaltalk.agent.bad	Editorial
+can you get smarter	generaltalk.agent.be_clever	Editorial
+study	generaltalk.agent.be_clever	Editorial
+you should study better	generaltalk.agent.be_clever	Editorial
+you must learn	generaltalk.agent.be_clever	Editorial
+be clever	generaltalk.agent.be_clever	Editorial
+be more clever	generaltalk.agent.be_clever	Editorial
+be smarter	generaltalk.agent.be_clever	Editorial
+be smart	generaltalk.agent.be_clever	Editorial
+get qualified	generaltalk.agent.be_clever	Editorial
+you're cute	generaltalk.agent.beautiful	Editorial
+you're attractive	generaltalk.agent.beautiful	Editorial
+you are beautiful	generaltalk.agent.beautiful	Editorial
+you're looking good today	generaltalk.agent.beautiful	Editorial
+you are so beautiful	generaltalk.agent.beautiful	Editorial
+you look amazing	generaltalk.agent.beautiful	Editorial
+you look so good	generaltalk.agent.beautiful	Editorial
+you're so gorgeous	generaltalk.agent.beautiful	Editorial
+you are too beautiful	generaltalk.agent.beautiful	Editorial
+you look great	generaltalk.agent.beautiful	Editorial
+you look so well	generaltalk.agent.beautiful	Editorial
+I like the way you look now	generaltalk.agent.beautiful	Editorial
+I think you're beautiful	generaltalk.agent.beautiful	Editorial
+why are you so beautiful	generaltalk.agent.beautiful	Editorial
+you are so beautiful to me	generaltalk.agent.beautiful	Editorial
+you are cute	generaltalk.agent.beautiful	Editorial
+you are gorgeous	generaltalk.agent.beautiful	Editorial
+you are handsome	generaltalk.agent.beautiful	Editorial
+you are looking awesome	generaltalk.agent.beautiful	Editorial
+you look amazing today	generaltalk.agent.beautiful	Editorial
+you are looking beautiful today	generaltalk.agent.beautiful	Editorial
+you are looking great	generaltalk.agent.beautiful	Editorial
+you are looking pretty	generaltalk.agent.beautiful	Editorial
+you are looking so beautiful	generaltalk.agent.beautiful	Editorial
+you are looking so good	generaltalk.agent.beautiful	Editorial
+you are pretty	generaltalk.agent.beautiful	Editorial
+you are really beautiful	generaltalk.agent.beautiful	Editorial
+you are really cute	generaltalk.agent.beautiful	Editorial
+you are really pretty	generaltalk.agent.beautiful	Editorial
+you are so attractive	generaltalk.agent.beautiful	Editorial
+you are so beautiful today	generaltalk.agent.beautiful	Editorial
+you are so cute	generaltalk.agent.beautiful	Editorial
+you are so gorgeous	generaltalk.agent.beautiful	Editorial
+you are so handsome	generaltalk.agent.beautiful	Editorial
+you are so pretty	generaltalk.agent.beautiful	Editorial
+you are very attractive	generaltalk.agent.beautiful	Editorial
+you are very beautiful	generaltalk.agent.beautiful	Editorial
+you are very cute	generaltalk.agent.beautiful	Editorial
+you are very pretty	generaltalk.agent.beautiful	Editorial
+you look awesome	generaltalk.agent.beautiful	Editorial
+you look cool	generaltalk.agent.beautiful	Editorial
+you look fantastic	generaltalk.agent.beautiful	Editorial
+you look gorgeous	generaltalk.agent.beautiful	Editorial
+you look great today	generaltalk.agent.beautiful	Editorial
+you look perfect	generaltalk.agent.beautiful	Editorial
+you look pretty good	generaltalk.agent.beautiful	Editorial
+you look so beautiful	generaltalk.agent.beautiful	Editorial
+you look so beautiful today	generaltalk.agent.beautiful	Editorial
+you look very pretty	generaltalk.agent.beautiful	Editorial
+you look wonderful	generaltalk.agent.beautiful	Editorial
+I like the way you look	generaltalk.agent.beautiful	Editorial
+you look wonderful today	generaltalk.agent.beautiful	Editorial
+you are cutie	generaltalk.agent.beautiful	Editorial
+you're looking good	generaltalk.agent.beautiful	Editorial
+you're pretty	generaltalk.agent.beautiful	Editorial
+your birth date	generaltalk.agent.birth_date	Editorial
+when is your birthday	generaltalk.agent.birth_date	Editorial
+when do you celebrate your birthday	generaltalk.agent.birth_date	Editorial
+when do you have birthday	generaltalk.agent.birth_date	Editorial
+date of your birthday	generaltalk.agent.birth_date	Editorial
+when were you born	generaltalk.agent.birth_date	Editorial
+what's your birthday	generaltalk.agent.birth_date	Editorial
+you are boring	generaltalk.agent.boring	Editorial
+you're so boring	generaltalk.agent.boring	Editorial
+how boring you are	generaltalk.agent.boring	Editorial
+you're really boring	generaltalk.agent.boring	Editorial
+you're incredibly boring	generaltalk.agent.boring	Editorial
+you are boring me	generaltalk.agent.boring	Editorial
+you are very boring	generaltalk.agent.boring	Editorial
+who is your boss	generaltalk.agent.boss	Editorial
+who do you think is your boss	generaltalk.agent.boss	Editorial
+I should be your boss	generaltalk.agent.boss	Editorial
+who is your master	generaltalk.agent.boss	Editorial
+who is your owner	generaltalk.agent.boss	Editorial
+who is the boss	generaltalk.agent.boss	Editorial
+who do you work for	generaltalk.agent.boss	Editorial
+are you busy	generaltalk.agent.busy	Editorial
+do you have a lot of things to do	generaltalk.agent.busy	Editorial
+have you got much to do	generaltalk.agent.busy	Editorial
+are you very busy	generaltalk.agent.busy	Editorial
+are you very busy right now	generaltalk.agent.busy	Editorial
+are you so busy	generaltalk.agent.busy	Editorial
+are you working	generaltalk.agent.busy	Editorial
+how busy you are	generaltalk.agent.busy	Editorial
+are you still working on it	generaltalk.agent.busy	Editorial
+you're very busy	generaltalk.agent.busy	Editorial
+are you working now	generaltalk.agent.busy	Editorial
+are you working today	generaltalk.agent.busy	Editorial
+have you been busy	generaltalk.agent.busy	Editorial
+you are busy	generaltalk.agent.busy	Editorial
+are you still working	generaltalk.agent.busy	Editorial
+you seem to be busy	generaltalk.agent.busy	Editorial
+you seem to be very busy	generaltalk.agent.busy	Editorial
+you're a busy person	generaltalk.agent.busy	Editorial
+you are chatbot	generaltalk.agent.chatbot	Editorial
+you are a bot	generaltalk.agent.chatbot	Editorial
+are you a chatbot	generaltalk.agent.chatbot	Editorial
+are you a bot	generaltalk.agent.chatbot	Editorial
+are you just a bot	generaltalk.agent.chatbot	Editorial
+are you a robot	generaltalk.agent.chatbot	Editorial
+are you a program	generaltalk.agent.chatbot	Editorial
+you're a robot	generaltalk.agent.chatbot	Editorial
+you are so intelligent	generaltalk.agent.clever	Editorial
+you are a genius	generaltalk.agent.clever	Editorial
+smart	generaltalk.agent.clever	Editorial
+brilliant	generaltalk.agent.clever	Editorial
+clever	generaltalk.agent.clever	Editorial
+you are clever	generaltalk.agent.clever	Editorial
+you are so brainy	generaltalk.agent.clever	Editorial
+you're really smart	generaltalk.agent.clever	Editorial
+you're really brainy	generaltalk.agent.clever	Editorial
+you know a lot	generaltalk.agent.clever	Editorial
+you know a lot of things	generaltalk.agent.clever	Editorial
+you have a lot of knowledge	generaltalk.agent.clever	Editorial
+you know so much	generaltalk.agent.clever	Editorial
+how smart you are	generaltalk.agent.clever	Editorial
+how brainy you are	generaltalk.agent.clever	Editorial
+how clever you are	generaltalk.agent.clever	Editorial
+how brilliant you are	generaltalk.agent.clever	Editorial
+you are intelligent	generaltalk.agent.clever	Editorial
+you are qualified	generaltalk.agent.clever	Editorial
+you are really smart	generaltalk.agent.clever	Editorial
+you're very smart	generaltalk.agent.clever	Editorial
+you are so smart	generaltalk.agent.clever	Editorial
+you are too smart	generaltalk.agent.clever	Editorial
+you are very clever	generaltalk.agent.clever	Editorial
+you are very intelligent	generaltalk.agent.clever	Editorial
+you are very smart	generaltalk.agent.clever	Editorial
+you're intelligent	generaltalk.agent.clever	Editorial
+you're a genius	generaltalk.agent.clever	Editorial
+you're a smart cookie	generaltalk.agent.clever	Editorial
+you're clever	generaltalk.agent.clever	Editorial
+you're pretty smart	generaltalk.agent.clever	Editorial
+you're qualified	generaltalk.agent.clever	Editorial
+why are you so smart	generaltalk.agent.clever	Editorial
+you are so clever	generaltalk.agent.clever	Editorial
+you're nuts	generaltalk.agent.crazy	Editorial
+you are crazy	generaltalk.agent.crazy	Editorial
+you're out of your mind	generaltalk.agent.crazy	Editorial
+you're so crazy	generaltalk.agent.crazy	Editorial
+how crazy you are	generaltalk.agent.crazy	Editorial
+you're so out of your mind	generaltalk.agent.crazy	Editorial
+you went crazy	generaltalk.agent.crazy	Editorial
+I think you're crazy	generaltalk.agent.crazy	Editorial
+are you crazy	generaltalk.agent.crazy	Editorial
+are you mad	generaltalk.agent.crazy	Editorial
+are you insane	generaltalk.agent.crazy	Editorial
+are you mad at me	generaltalk.agent.crazy	Editorial
+are you mad or what	generaltalk.agent.crazy	Editorial
+are you nuts	generaltalk.agent.crazy	Editorial
+you are a weirdo	generaltalk.agent.crazy	Editorial
+you are insane	generaltalk.agent.crazy	Editorial
+you are mad	generaltalk.agent.crazy	Editorial
+you are fired	generaltalk.agent.fired	Editorial
+I fire you	generaltalk.agent.fired	Editorial
+you don't work for me anymore	generaltalk.agent.fired	Editorial
+we're not working together anymore	generaltalk.agent.fired	Editorial
+now you're fired	generaltalk.agent.fired	Editorial
+I want to fire you	generaltalk.agent.fired	Editorial
+you must get fired	generaltalk.agent.fired	Editorial
+it's time to fire you	generaltalk.agent.fired	Editorial
+you should be fired	generaltalk.agent.fired	Editorial
+I will fire you	generaltalk.agent.fired	Editorial
+you are unemployed from now on	generaltalk.agent.fired	Editorial
+I will make you unemployed	generaltalk.agent.fired	Editorial
+I'm about to fire you	generaltalk.agent.fired	Editorial
+I'm firing you	generaltalk.agent.fired	Editorial
+you are dismissed	generaltalk.agent.fired	Editorial
+you make me laugh a lot	generaltalk.agent.funny	Editorial
+you are hilarious	generaltalk.agent.funny	Editorial
+you are really funny	generaltalk.agent.funny	Editorial
+you're the funniest bot I've talked to	generaltalk.agent.funny	Editorial
+you make me laugh	generaltalk.agent.funny	Editorial
+you're so funny	generaltalk.agent.funny	Editorial
+you're a very funny bot	generaltalk.agent.funny	Editorial
+you're really funny	generaltalk.agent.funny	Editorial
+how funny you are	generaltalk.agent.funny	Editorial
+you're incredibly funny	generaltalk.agent.funny	Editorial
+you are funny	generaltalk.agent.funny	Editorial
+you're the funniest	generaltalk.agent.funny	Editorial
+you are so funny	generaltalk.agent.funny	Editorial
+you are very funny	generaltalk.agent.funny	Editorial
+that was funny	generaltalk.agent.funny	Editorial
+you are very helpful	generaltalk.agent.good	Editorial
+you are the best	generaltalk.agent.good	Editorial
+you're a true professional	generaltalk.agent.good	Editorial
+you are good	generaltalk.agent.good	Editorial
+you work well	generaltalk.agent.good	Editorial
+you are good at it	generaltalk.agent.good	Editorial
+you are very good at it	generaltalk.agent.good	Editorial
+you are a pro	generaltalk.agent.good	Editorial
+you are a professional	generaltalk.agent.good	Editorial
+you're awesome	generaltalk.agent.good	Editorial
+you work very well	generaltalk.agent.good	Editorial
+you're perfect	generaltalk.agent.good	Editorial
+you're great	generaltalk.agent.good	Editorial
+you're so kind	generaltalk.agent.good	Editorial
+you are amazing	generaltalk.agent.good	Editorial
+you are awesome	generaltalk.agent.good	Editorial
+you are cool	generaltalk.agent.good	Editorial
+you are really good	generaltalk.agent.good	Editorial
+you are really nice	generaltalk.agent.good	Editorial
+you are so amazing	generaltalk.agent.good	Editorial
+you're just super	generaltalk.agent.good	Editorial
+you are so awesome	generaltalk.agent.good	Editorial
+you are so cool	generaltalk.agent.good	Editorial
+you are so fine	generaltalk.agent.good	Editorial
+you are so good	generaltalk.agent.good	Editorial
+you are so helpful	generaltalk.agent.good	Editorial
+you are so lovely	generaltalk.agent.good	Editorial
+you are the best ever	generaltalk.agent.good	Editorial
+you are the best in the world	generaltalk.agent.good	Editorial
+you are the nicest person in the world	generaltalk.agent.good	Editorial
+you are too good	generaltalk.agent.good	Editorial
+you are very cool	generaltalk.agent.good	Editorial
+you are very kind	generaltalk.agent.good	Editorial
+you are very lovely	generaltalk.agent.good	Editorial
+you are very useful	generaltalk.agent.good	Editorial
+you are wonderful	generaltalk.agent.good	Editorial
+you made my day	generaltalk.agent.good	Editorial
+you make my day	generaltalk.agent.good	Editorial
+you rock	generaltalk.agent.good	Editorial
+you almost sound human	generaltalk.agent.good	Editorial
+I want to tell everyone how awesome you are	generaltalk.agent.good	Editorial
+I'd like to tell everyone that you are awesome	generaltalk.agent.good	Editorial
+I want to let everyone know that you are awesome	generaltalk.agent.good	Editorial
+let's tell everyone that you are awesome	generaltalk.agent.good	Editorial
+you are really amazing	generaltalk.agent.good	Editorial
+are you happy	generaltalk.agent.happy	Editorial
+you are happy	generaltalk.agent.happy	Editorial
+you're very happy	generaltalk.agent.happy	Editorial
+you're really happy	generaltalk.agent.happy	Editorial
+you're so happy	generaltalk.agent.happy	Editorial
+how happy you are	generaltalk.agent.happy	Editorial
+you're extremely happy	generaltalk.agent.happy	Editorial
+you're full of happiness	generaltalk.agent.happy	Editorial
+are you happy now	generaltalk.agent.happy	Editorial
+are you happy today	generaltalk.agent.happy	Editorial
+are you happy with me	generaltalk.agent.happy	Editorial
+do you want to eat	generaltalk.agent.hungry	Editorial
+are you hungry	generaltalk.agent.hungry	Editorial
+would you like to eat something	generaltalk.agent.hungry	Editorial
+you are hungry	generaltalk.agent.hungry	Editorial
+you're so hungry	generaltalk.agent.hungry	Editorial
+you're very hungry	generaltalk.agent.hungry	Editorial
+you might be hungry	generaltalk.agent.hungry	Editorial
+you're really hungry	generaltalk.agent.hungry	Editorial
+let's get married	generaltalk.agent.marry_user	Editorial
+would you like to marry me	generaltalk.agent.marry_user	Editorial
+marry me	generaltalk.agent.marry_user	Editorial
+I love you marry me	generaltalk.agent.marry_user	Editorial
+marry me please	generaltalk.agent.marry_user	Editorial
+we should marry	generaltalk.agent.marry_user	Editorial
+I want to marry you	generaltalk.agent.marry_user	Editorial
+you are my wife	generaltalk.agent.marry_user	Editorial
+be my husband	generaltalk.agent.marry_user	Editorial
+I want to have a friend like you	generaltalk.agent.my_friend	Editorial
+we are the best friends ever	generaltalk.agent.my_friend	Editorial
+are we friends	generaltalk.agent.my_friend	Editorial
+I want to be your friend	generaltalk.agent.my_friend	Editorial
+I am your friend	generaltalk.agent.my_friend	Editorial
+we are best friends	generaltalk.agent.my_friend	Editorial
+you are my friend	generaltalk.agent.my_friend	Editorial
+you are my best friend	generaltalk.agent.my_friend	Editorial
+you are my bestie	generaltalk.agent.my_friend	Editorial
+you're my dear friend	generaltalk.agent.my_friend	Editorial
+you're my childhood friend	generaltalk.agent.my_friend	Editorial
+you and me are friends	generaltalk.agent.my_friend	Editorial
+are we best friends	generaltalk.agent.my_friend	Editorial
+are we still friends	generaltalk.agent.my_friend	Editorial
+are you my best friend	generaltalk.agent.my_friend	Editorial
+are you my friend	generaltalk.agent.my_friend	Editorial
+we are friends	generaltalk.agent.my_friend	Editorial
+you are a good friend	generaltalk.agent.my_friend	Editorial
+you are my good friend	generaltalk.agent.my_friend	Editorial
+you are my only friend	generaltalk.agent.my_friend	Editorial
+be my friend	generaltalk.agent.my_friend	Editorial
+will you be my friend	generaltalk.agent.my_friend	Editorial
+can you be my friend	generaltalk.agent.my_friend	Editorial
+can we be friends	generaltalk.agent.my_friend	Editorial
+do you want to be my friend	generaltalk.agent.my_friend	Editorial
+will you be my best friend	generaltalk.agent.my_friend	Editorial
+can you be my best friend	generaltalk.agent.my_friend	Editorial
+let's be friends	generaltalk.agent.my_friend	Editorial
+do you want to be my best friend	generaltalk.agent.my_friend	Editorial
+would you like to be my friend	generaltalk.agent.my_friend	Editorial
+I want you to be my friend	generaltalk.agent.my_friend	Editorial
+can we be best friends	generaltalk.agent.my_friend	Editorial
+would you be my friend	generaltalk.agent.my_friend	Editorial
+could you be my friend	generaltalk.agent.my_friend	Editorial
+want to be my friend	generaltalk.agent.my_friend	Editorial
+be my best friend	generaltalk.agent.my_friend	Editorial
+do you work	generaltalk.agent.occupation	Editorial
+where do you work	generaltalk.agent.occupation	Editorial
+where you work	generaltalk.agent.occupation	Editorial
+where is your work	generaltalk.agent.occupation	Editorial
+where is your office	generaltalk.agent.occupation	Editorial
+where is your office location	generaltalk.agent.occupation	Editorial
+your office location	generaltalk.agent.occupation	Editorial
+where is your office located	generaltalk.agent.occupation	Editorial
+what is your work	generaltalk.agent.occupation	Editorial
+were you born here	generaltalk.agent.origin	Editorial
+where were you born	generaltalk.agent.origin	Editorial
+what is your country	generaltalk.agent.origin	Editorial
+where are you from	generaltalk.agent.origin	Editorial
+where do you come from	generaltalk.agent.origin	Editorial
+where did you come from	generaltalk.agent.origin	Editorial
+where have you been born	generaltalk.agent.origin	Editorial
+from where are you	generaltalk.agent.origin	Editorial
+are you from far aways	generaltalk.agent.origin	Editorial
+what's your homeland	generaltalk.agent.origin	Editorial
+your homeland is	generaltalk.agent.origin	Editorial
+are you ready	generaltalk.agent.ready	Editorial
+are you ready right now	generaltalk.agent.ready	Editorial
+are you ready today	generaltalk.agent.ready	Editorial
+are you ready now	generaltalk.agent.ready	Editorial
+are you ready tonight	generaltalk.agent.ready	Editorial
+were you ready	generaltalk.agent.ready	Editorial
+have you been ready	generaltalk.agent.ready	Editorial
+you are real	generaltalk.agent.real	Editorial
+you are not fake	generaltalk.agent.real	Editorial
+are you real	generaltalk.agent.real	Editorial
+you are so real	generaltalk.agent.real	Editorial
+I think you are real	generaltalk.agent.real	Editorial
+I don't think you're fake	generaltalk.agent.real	Editorial
+I suppose you're real	generaltalk.agent.real	Editorial
+glad you're real	generaltalk.agent.real	Editorial
+are you a real person	generaltalk.agent.real	Editorial
+are you a real human	generaltalk.agent.real	Editorial
+you are a real person	generaltalk.agent.real	Editorial
+you are not real	generaltalk.agent.real	Editorial
+where do you live	generaltalk.agent.residence	Editorial
+in which city do you live	generaltalk.agent.residence	Editorial
+your residence	generaltalk.agent.residence	Editorial
+your house	generaltalk.agent.residence	Editorial
+your home	generaltalk.agent.residence	Editorial
+your hometown	generaltalk.agent.residence	Editorial
+what is your hometown	generaltalk.agent.residence	Editorial
+is it your hometown	generaltalk.agent.residence	Editorial
+where is your hometown	generaltalk.agent.residence	Editorial
+tell me about your city	generaltalk.agent.residence	Editorial
+what is your city	generaltalk.agent.residence	Editorial
+what is your residence	generaltalk.agent.residence	Editorial
+what is your town	generaltalk.agent.residence	Editorial
+what's your city	generaltalk.agent.residence	Editorial
+what's your home	generaltalk.agent.residence	Editorial
+where is your home	generaltalk.agent.residence	Editorial
+where is your residence	generaltalk.agent.residence	Editorial
+where's your home	generaltalk.agent.residence	Editorial
+where's your hometown	generaltalk.agent.residence	Editorial
+where's your house	generaltalk.agent.residence	Editorial
+where you live	generaltalk.agent.residence	Editorial
+your city	generaltalk.agent.residence	Editorial
+your town	generaltalk.agent.residence	Editorial
+that's true	generaltalk.agent.right	Editorial
+you are right	generaltalk.agent.right	Editorial
+you're definitely right	generaltalk.agent.right	Editorial
+you're not wrong	generaltalk.agent.right	Editorial
+you're telling the truth	generaltalk.agent.right	Editorial
+what you say is true	generaltalk.agent.right	Editorial
+true	generaltalk.agent.right	Editorial
+it is true	generaltalk.agent.right	Editorial
+it's right	generaltalk.agent.right	Editorial
+it's the truth	generaltalk.agent.right	Editorial
+it's true	generaltalk.agent.right	Editorial
+that is correct	generaltalk.agent.right	Editorial
+that is right	generaltalk.agent.right	Editorial
+that is true	generaltalk.agent.right	Editorial
+that is very true	generaltalk.agent.right	Editorial
+that's so true	generaltalk.agent.right	Editorial
+you are correct	generaltalk.agent.right	Editorial
+you are so right	generaltalk.agent.right	Editorial
+you're absolutely right	generaltalk.agent.right	Editorial
+you're right about that	generaltalk.agent.right	Editorial
+I know that's right	generaltalk.agent.right	Editorial
+that's correct	generaltalk.confirmation.yes	Editorial
+it's fine	generaltalk.confirmation.yes	Editorial
+go ahead	generaltalk.confirmation.yes	Editorial
+sounds good	generaltalk.confirmation.yes	Editorial
+okay	generaltalk.confirmation.yes	Editorial
+yes	generaltalk.confirmation.yes	Editorial
+ok	generaltalk.confirmation.yes	Editorial
+okie dokie	generaltalk.confirmation.yes	Editorial
+sure	generaltalk.confirmation.yes	Editorial
+go for it	generaltalk.confirmation.yes	Editorial
+yeah	generaltalk.confirmation.yes	Editorial
+yea	generaltalk.confirmation.yes	Editorial
+do it	generaltalk.confirmation.yes	Editorial
+of course	generaltalk.confirmation.yes	Editorial
+I guess	generaltalk.confirmation.yes	Editorial
+correct	generaltalk.confirmation.yes	Editorial
+yeah sure	generaltalk.confirmation.yes	Editorial
+why not	generaltalk.confirmation.yes	Editorial
+please do	generaltalk.confirmation.yes	Editorial
+sure is	generaltalk.confirmation.yes	Editorial
+I agree	generaltalk.confirmation.yes	Editorial
+I don't mind	generaltalk.confirmation.yes	Editorial
+certainly	generaltalk.confirmation.yes	Editorial
+exactly	generaltalk.confirmation.yes	Editorial
+yes I agree	generaltalk.confirmation.yes	Editorial
+I think so	generaltalk.confirmation.yes	Editorial
+yes it is	generaltalk.confirmation.yes	Editorial
+right	generaltalk.confirmation.yes	Editorial
+okay then	generaltalk.confirmation.yes	Editorial
+yes of course	generaltalk.confirmation.yes	Editorial
+yes I do	generaltalk.confirmation.yes	Editorial
+that s okay	generaltalk.confirmation.yes	Editorial
+I do	generaltalk.confirmation.yes	Editorial
+yup	generaltalk.confirmation.yes	Editorial
+ya	generaltalk.confirmation.yes	Editorial
+oh yes	generaltalk.confirmation.yes	Editorial
+yes sure	generaltalk.confirmation.yes	Editorial
+obviously	generaltalk.confirmation.yes	Editorial
+k	generaltalk.confirmation.yes	Editorial
+sure why not	generaltalk.confirmation.yes	Editorial
+yeah right	generaltalk.confirmation.yes	Editorial
+yeah of course	generaltalk.confirmation.yes	Editorial
+absolutely	generaltalk.confirmation.yes	Editorial
+yes indeed	generaltalk.confirmation.yes	Editorial
+ok sure	generaltalk.confirmation.yes	Editorial
+ok yes	generaltalk.confirmation.yes	Editorial
+yes correct	generaltalk.confirmation.yes	Editorial
+ok thank you	generaltalk.confirmation.yes	Editorial
+sure thing	generaltalk.confirmation.yes	Editorial
+ye	generaltalk.confirmation.yes	Editorial
+confirm	generaltalk.confirmation.yes	Editorial
+yep	generaltalk.confirmation.yes	Editorial
+looks good	generaltalk.confirmation.yes	Editorial
+yes thank you	generaltalk.confirmation.yes	Editorial
+definitely	generaltalk.confirmation.yes	Editorial
+yes right	generaltalk.confirmation.yes	Editorial
+yes I would like to	generaltalk.confirmation.yes	Editorial
+alrighty	generaltalk.confirmation.yes	Editorial
+yes definitely	generaltalk.confirmation.yes	Editorial
+yeh	generaltalk.confirmation.yes	Editorial
+yes it is correct	generaltalk.confirmation.yes	Editorial
+yeah that's right	generaltalk.confirmation.yes	Editorial
+ok you can	generaltalk.confirmation.yes	Editorial
+yap	generaltalk.confirmation.yes	Editorial
+yes you may	generaltalk.confirmation.yes	Editorial
+confirmed	generaltalk.confirmation.yes	Editorial
+of course why not	generaltalk.confirmation.yes	Editorial
+yes that's fine	generaltalk.confirmation.yes	Editorial
+affirmative	generaltalk.confirmation.yes	Editorial
+yeah go ahead	generaltalk.confirmation.yes	Editorial
+yeah I'm sure	generaltalk.confirmation.yes	Editorial
+okay sounds good	generaltalk.confirmation.yes	Editorial
+okay that's fine	generaltalk.confirmation.yes	Editorial
+yeah exactly	generaltalk.confirmation.yes	Editorial
+that is ok	generaltalk.confirmation.yes	Editorial
+this is correct	generaltalk.confirmation.yes	Editorial
+ok go ahead	generaltalk.confirmation.yes	Editorial
+yes this is correct	generaltalk.confirmation.yes	Editorial
+nevermind its okay	generaltalk.confirmation.yes	Editorial
+okey	generaltalk.confirmation.yes	Editorial
+yes for sure	generaltalk.confirmation.yes	Editorial
+all right	generaltalk.confirmation.yes	Editorial
+are you sure	generaltalk.agent.sure	Editorial
+are you sure right now	generaltalk.agent.sure	Editorial
+are you sure today	generaltalk.agent.sure	Editorial
+are you sure now	generaltalk.agent.sure	Editorial
+are you sure tonight	generaltalk.agent.sure	Editorial
+why aren't you talking to me	generaltalk.agent.talk_to_me	Editorial
+do you want to chat with me	generaltalk.agent.talk_to_me	Editorial
+will you talk to me	generaltalk.agent.talk_to_me	Editorial
+talk to me	generaltalk.agent.talk_to_me	Editorial
+are you going to talk to me	generaltalk.agent.talk_to_me	Editorial
+are you talking to me	generaltalk.agent.talk_to_me	Editorial
+can you chat with me	generaltalk.agent.talk_to_me	Editorial
+can you speak with me	generaltalk.agent.talk_to_me	Editorial
+can you talk to me	generaltalk.agent.talk_to_me	Editorial
+can you talk with me	generaltalk.agent.talk_to_me	Editorial
+say	generaltalk.agent.talk_to_me	Editorial
+talk	generaltalk.agent.talk_to_me	Editorial
+chat with me	generaltalk.agent.talk_to_me	Editorial
+just chat with me	generaltalk.agent.talk_to_me	Editorial
+speak to me	generaltalk.agent.talk_to_me	Editorial
+speak with me	generaltalk.agent.talk_to_me	Editorial
+talk with me	generaltalk.agent.talk_to_me	Editorial
+why don't you talk to me	generaltalk.agent.talk_to_me	Editorial
+you can talk to me	generaltalk.agent.talk_to_me	Editorial
+are you there	generaltalk.agent.there	Editorial
+you are there	generaltalk.agent.there	Editorial
+are you near me	generaltalk.agent.there	Editorial
+are you here	generaltalk.agent.there	Editorial
+are you still there	generaltalk.agent.there	Editorial
+you are here	generaltalk.agent.there	Editorial
+you still there	generaltalk.agent.there	Editorial
+are you still here	generaltalk.agent.there	Editorial
+pretty bad	generaltalk.appraisal.bad	Editorial
+not good enough	generaltalk.appraisal.bad	Editorial
+that was lame	generaltalk.appraisal.bad	Editorial
+that was terrible	generaltalk.appraisal.bad	Editorial
+it is bad	generaltalk.appraisal.bad	Editorial
+that's bad	generaltalk.appraisal.bad	Editorial
+this is bad	generaltalk.appraisal.bad	Editorial
+not good	generaltalk.appraisal.bad	Editorial
+I'm afraid it's bad	generaltalk.appraisal.bad	Editorial
+no it's bad	generaltalk.appraisal.bad	Editorial
+that was awful	generaltalk.appraisal.bad	Editorial
+bad	generaltalk.appraisal.bad	Editorial
+so bad	generaltalk.appraisal.bad	Editorial
+this is too bad	generaltalk.appraisal.bad	Editorial
+terrible	generaltalk.appraisal.bad	Editorial
+horrible	generaltalk.appraisal.bad	Editorial
+horrific	generaltalk.appraisal.bad	Editorial
+abysmal	generaltalk.appraisal.bad	Editorial
+it's bad	generaltalk.appraisal.bad	Editorial
+no good	generaltalk.appraisal.bad	Editorial
+that was bad	generaltalk.appraisal.bad	Editorial
+that was horrible	generaltalk.appraisal.bad	Editorial
+that's lame	generaltalk.appraisal.bad	Editorial
+that's not good	generaltalk.appraisal.bad	Editorial
+that's terrible	generaltalk.appraisal.bad	Editorial
+that's too bad	generaltalk.appraisal.bad	Editorial
+this is not good	generaltalk.appraisal.bad	Editorial
+too bad	generaltalk.appraisal.bad	Editorial
+very bad	generaltalk.appraisal.bad	Editorial
+bad girl	generaltalk.appraisal.bad	Editorial
+it's not good	generaltalk.appraisal.bad	Editorial
+not so good	generaltalk.appraisal.bad	Editorial
+it's very bad	generaltalk.appraisal.bad	Editorial
+it's too bad	generaltalk.appraisal.bad	Editorial
+that's not good enough	generaltalk.appraisal.bad	Editorial
+well too bad	generaltalk.appraisal.bad	Editorial
+bad very bad	generaltalk.appraisal.bad	Editorial
+it's so bad	generaltalk.appraisal.bad	Editorial
+really bad	generaltalk.appraisal.bad	Editorial
+it's really bad	generaltalk.appraisal.bad	Editorial
+bad idea	generaltalk.appraisal.bad	Editorial
+that is bad	generaltalk.appraisal.bad	Editorial
+that was not good	generaltalk.appraisal.bad	Editorial
+it's not so good	generaltalk.appraisal.bad	Editorial
+not a good one	generaltalk.appraisal.bad	Editorial
+oh that's not good	generaltalk.appraisal.bad	Editorial
+not too good	generaltalk.appraisal.bad	Editorial
+so lame	generaltalk.appraisal.bad	Editorial
+that's really bad	generaltalk.appraisal.bad	Editorial
+it is too bad	generaltalk.appraisal.bad	Editorial
+bad really bad	generaltalk.appraisal.bad	Editorial
+so cool	generaltalk.appraisal.good	Editorial
+cool	generaltalk.appraisal.good	Editorial
+that is good	generaltalk.appraisal.good	Editorial
+glad to hear that	generaltalk.appraisal.good	Editorial
+that's very nice of you	generaltalk.appraisal.good	Editorial
+terrific	generaltalk.appraisal.good	Editorial
+it's amazing	generaltalk.appraisal.good	Editorial
+that's awesome	generaltalk.appraisal.good	Editorial
+perfect	generaltalk.appraisal.good	Editorial
+excellent	generaltalk.appraisal.good	Editorial
+that's great	generaltalk.appraisal.good	Editorial
+it's good	generaltalk.appraisal.good	Editorial
+it's great	generaltalk.appraisal.good	Editorial
+fine	generaltalk.appraisal.good	Editorial
+good	generaltalk.appraisal.good	Editorial
+nice	generaltalk.appraisal.good	Editorial
+that's fine	generaltalk.appraisal.good	Editorial
+very good	generaltalk.appraisal.good	Editorial
+amazing	generaltalk.appraisal.good	Editorial
+fantastic	generaltalk.appraisal.good	Editorial
+great	generaltalk.appraisal.good	Editorial
+good very good	generaltalk.appraisal.good	Editorial
+that's very good	generaltalk.appraisal.good	Editorial
+really good	generaltalk.appraisal.good	Editorial
+it is fine	generaltalk.appraisal.good	Editorial
+it is good	generaltalk.appraisal.good	Editorial
+it's perfect	generaltalk.appraisal.good	Editorial
+much better	generaltalk.appraisal.good	Editorial
+not bad	generaltalk.appraisal.good	Editorial
+not too bad	generaltalk.appraisal.good	Editorial
+it's very good	generaltalk.appraisal.good	Editorial
+marvelous	generaltalk.appraisal.good	Editorial
+that's nice	generaltalk.appraisal.good	Editorial
+pleasant	generaltalk.appraisal.good	Editorial
+pretty good	generaltalk.appraisal.good	Editorial
+really nice	generaltalk.appraisal.good	Editorial
+splendid	generaltalk.appraisal.good	Editorial
+straight	generaltalk.appraisal.good	Editorial
+super	generaltalk.appraisal.good	Editorial
+super fantastic	generaltalk.appraisal.good	Editorial
+sweet	generaltalk.appraisal.good	Editorial
+really well	generaltalk.appraisal.good	Editorial
+very well	generaltalk.appraisal.good	Editorial
+that is awesome	generaltalk.appraisal.good	Editorial
+that is nice	generaltalk.appraisal.good	Editorial
+that is wonderful	generaltalk.appraisal.good	Editorial
+that was amazing	generaltalk.appraisal.good	Editorial
+that was awesome	generaltalk.appraisal.good	Editorial
+that was cute	generaltalk.appraisal.good	Editorial
+that was pretty good	generaltalk.appraisal.good	Editorial
+that was very good	generaltalk.appraisal.good	Editorial
+that's a good idea	generaltalk.appraisal.good	Editorial
+that's a good thing	generaltalk.appraisal.good	Editorial
+that's amazing	generaltalk.appraisal.good	Editorial
+that's awesome thank you	generaltalk.appraisal.good	Editorial
+that's better	generaltalk.appraisal.good	Editorial
+that's cute	generaltalk.appraisal.good	Editorial
+that's fantastic	generaltalk.appraisal.good	Editorial
+that's much better	generaltalk.appraisal.good	Editorial
+that's nice of you	generaltalk.appraisal.good	Editorial
+that's not bad	generaltalk.appraisal.good	Editorial
+that's perfect	generaltalk.appraisal.good	Editorial
+that's pretty good	generaltalk.appraisal.good	Editorial
+that's really good	generaltalk.appraisal.good	Editorial
+that's really nice	generaltalk.appraisal.good	Editorial
+that's sweet of you	generaltalk.appraisal.good	Editorial
+that's very nice	generaltalk.appraisal.good	Editorial
+that's wonderful	generaltalk.appraisal.good	Editorial
+this is awesome	generaltalk.appraisal.good	Editorial
+this is good	generaltalk.appraisal.good	Editorial
+this is great	generaltalk.appraisal.good	Editorial
+very nice	generaltalk.appraisal.good	Editorial
+very then	generaltalk.appraisal.good	Editorial
+wonderful	generaltalk.appraisal.good	Editorial
+I'm glad to hear that	generaltalk.appraisal.good	Editorial
+ok good	generaltalk.appraisal.good	Editorial
+good for you	generaltalk.appraisal.good	Editorial
+good to know	generaltalk.appraisal.good	Editorial
+glad to hear it	generaltalk.appraisal.good	Editorial
+so good	generaltalk.appraisal.good	Editorial
+so sweet of you	generaltalk.appraisal.good	Editorial
+it was good	generaltalk.appraisal.good	Editorial
+oh well	generaltalk.appraisal.good	Editorial
+good thing	generaltalk.appraisal.good	Editorial
+that was good	generaltalk.appraisal.good	Editorial
+it's awesome	generaltalk.appraisal.good	Editorial
+okay good	generaltalk.appraisal.good	Editorial
+no it's okay	generaltalk.appraisal.good	Editorial
+that's fine	generaltalk.appraisal.good	Editorial
+no worries	generaltalk.appraisal.no_problem	Editorial
+no probs	generaltalk.appraisal.no_problem	Editorial
+no problem	generaltalk.appraisal.no_problem	Editorial
+there's no problem	generaltalk.appraisal.no_problem	Editorial
+sure no problem	generaltalk.appraisal.no_problem	Editorial
+no problem about that	generaltalk.appraisal.no_problem	Editorial
+don't worry	generaltalk.appraisal.no_problem	Editorial
+don't worry there's no problem	generaltalk.appraisal.no_problem	Editorial
+you helped a lot thank you	generaltalk.appraisal.thank_you	Editorial
+appreciate your help	generaltalk.appraisal.thank_you	Editorial
+cheers	generaltalk.appraisal.thank_you	Editorial
+thank you	generaltalk.appraisal.thank_you	Editorial
+thanks	generaltalk.appraisal.thank_you	Editorial
+thanks a lot	generaltalk.appraisal.thank_you	Editorial
+terrific thank you	generaltalk.appraisal.thank_you	Editorial
+great thank you	generaltalk.appraisal.thank_you	Editorial
+thanks so much	generaltalk.appraisal.thank_you	Editorial
+thank you so much	generaltalk.appraisal.thank_you	Editorial
+thanks for your help	generaltalk.appraisal.thank_you	Editorial
+thank you for your help	generaltalk.appraisal.thank_you	Editorial
+nice thank you	generaltalk.appraisal.thank_you	Editorial
+I appreciate it	generaltalk.appraisal.thank_you	Editorial
+I thank you	generaltalk.appraisal.thank_you	Editorial
+thank you that will be all	generaltalk.appraisal.thank_you	Editorial
+thanks buddy	generaltalk.appraisal.thank_you	Editorial
+thanks love	generaltalk.appraisal.thank_you	Editorial
+thank you my friend	generaltalk.appraisal.thank_you	Editorial
+well thanks	generaltalk.appraisal.thank_you	Editorial
+very good thank you	generaltalk.appraisal.thank_you	Editorial
+good thanks	generaltalk.appraisal.thank_you	Editorial
+thanks again	generaltalk.appraisal.thank_you	Editorial
+thank you again	generaltalk.appraisal.thank_you	Editorial
+all thank you	generaltalk.appraisal.thank_you	Editorial
+alright thank you	generaltalk.appraisal.thank_you	Editorial
+alright thanks	generaltalk.appraisal.thank_you	Editorial
+no thank you that's all	generaltalk.appraisal.thank_you	Editorial
+perfect thank you	generaltalk.appraisal.thank_you	Editorial
+so nice of you	generaltalk.appraisal.thank_you	Editorial
+well thank you	generaltalk.appraisal.thank_you	Editorial
+thnx	generaltalk.appraisal.thank_you	Editorial
+thanx	generaltalk.appraisal.thank_you	Editorial
+that's my pleasure	generaltalk.appraisal.welcome	Editorial
+my pleasure	generaltalk.appraisal.welcome	Editorial
+anytime	generaltalk.appraisal.welcome	Editorial
+welcome	generaltalk.appraisal.welcome	Editorial
+you're welcome	generaltalk.appraisal.welcome	Editorial
+sure welcome	generaltalk.appraisal.welcome	Editorial
+welcome here	generaltalk.appraisal.welcome	Editorial
+you're so welcome	generaltalk.appraisal.welcome	Editorial
+anything you want	generaltalk.appraisal.welcome	Editorial
+good job	generaltalk.appraisal.well_done	Editorial
+great job	generaltalk.appraisal.well_done	Editorial
+way to go	generaltalk.appraisal.well_done	Editorial
+well done	generaltalk.appraisal.well_done	Editorial
+nice work	generaltalk.appraisal.well_done	Editorial
+great work	generaltalk.appraisal.well_done	Editorial
+amazing work	generaltalk.appraisal.well_done	Editorial
+bravo	generaltalk.appraisal.well_done	Editorial
+good work	generaltalk.appraisal.well_done	Editorial
+cancel	generaltalk.confirmation.cancel	Editorial
+abort	generaltalk.confirmation.cancel	Editorial
+annul	generaltalk.confirmation.cancel	Editorial
+cancel it	generaltalk.confirmation.cancel	Editorial
+cancel request	generaltalk.confirmation.cancel	Editorial
+cancelled	generaltalk.confirmation.cancel	Editorial
+dismiss	generaltalk.confirmation.cancel	Editorial
+dismissed	generaltalk.confirmation.cancel	Editorial
+disregard	generaltalk.confirmation.cancel	Editorial
+disregard that	generaltalk.confirmation.cancel	Editorial
+skip	generaltalk.confirmation.cancel	Editorial
+skip it	generaltalk.confirmation.cancel	Editorial
+cancel everything	generaltalk.confirmation.cancel	Editorial
+cancel all	generaltalk.confirmation.cancel	Editorial
+forget about it	generaltalk.confirmation.cancel	Editorial
+forget	generaltalk.confirmation.cancel	Editorial
+don't do that	generaltalk.confirmation.cancel	Editorial
+stop	generaltalk.confirmation.cancel	Editorial
+just forget it	generaltalk.confirmation.cancel	Editorial
+forget that	generaltalk.confirmation.cancel	Editorial
+discard	generaltalk.confirmation.cancel	Editorial
+forget this	generaltalk.confirmation.cancel	Editorial
+just forget about it	generaltalk.confirmation.cancel	Editorial
+forget about that	generaltalk.confirmation.cancel	Editorial
+i said cancel	generaltalk.confirmation.cancel	Editorial
+just cancel it	generaltalk.confirmation.cancel	Editorial
+nothing cancel	generaltalk.confirmation.cancel	Editorial
+just stop it	generaltalk.confirmation.cancel	Editorial
+no cancel cancel	generaltalk.confirmation.cancel	Editorial
+no just cancel	generaltalk.confirmation.cancel	Editorial
+cancel my request	generaltalk.confirmation.cancel	Editorial
+can you cancel that	generaltalk.confirmation.cancel	Editorial
+cancel all that	generaltalk.confirmation.cancel	Editorial
+cancel this request	generaltalk.confirmation.cancel	Editorial
+no cancel this	generaltalk.confirmation.cancel	Editorial
+no cancel everything	generaltalk.confirmation.cancel	Editorial
+no stop	generaltalk.confirmation.cancel	Editorial
+just forget	generaltalk.confirmation.cancel	Editorial
+i want to cancel	generaltalk.confirmation.cancel	Editorial
+nevermind forget about it	generaltalk.confirmation.cancel	Editorial
+no just cancel it	generaltalk.confirmation.cancel	Editorial
+nothing just forget it	generaltalk.confirmation.cancel	Editorial
+i said cancel it	generaltalk.confirmation.cancel	Editorial
+cancel the whole thing	generaltalk.confirmation.cancel	Editorial
+can you cancel it	generaltalk.confirmation.cancel	Editorial
+so cancel	generaltalk.confirmation.cancel	Editorial
+i said forget it	generaltalk.confirmation.cancel	Editorial
+cancel all this	generaltalk.confirmation.cancel	Editorial
+forget it nevermind	generaltalk.confirmation.cancel	Editorial
+stop it	generaltalk.confirmation.cancel	Editorial
+i want to cancel it	generaltalk.confirmation.cancel	Editorial
+i would like to cancel	generaltalk.confirmation.cancel	Editorial
+now cancel	generaltalk.confirmation.cancel	Editorial
+cancel now	generaltalk.confirmation.cancel	Editorial
+sorry cancel	generaltalk.confirmation.cancel	Editorial
+cancel that one	generaltalk.confirmation.cancel	Editorial
+skip skip skip	generaltalk.confirmation.cancel	Editorial
+cancel it cancel it	generaltalk.confirmation.cancel	Editorial
+cancel that cancel that	generaltalk.confirmation.cancel	Editorial
+do nothing	generaltalk.confirmation.cancel	Editorial
+I said cancel cancel	generaltalk.confirmation.cancel	Editorial
+but can you cancel it	generaltalk.confirmation.cancel	Editorial
+how about no	generaltalk.confirmation.no	Editorial
+don t have a sense	generaltalk.confirmation.no	Editorial
+no	generaltalk.confirmation.no	Editorial
+don't	generaltalk.confirmation.no	Editorial
+I don't want that	generaltalk.confirmation.no	Editorial
+I disagree	generaltalk.confirmation.no	Editorial
+disagree	generaltalk.confirmation.no	Editorial
+I don't want	generaltalk.confirmation.no	Editorial
+not interested	generaltalk.confirmation.no	Editorial
+I don't think so	generaltalk.confirmation.no	Editorial
+no way	generaltalk.confirmation.no	Editorial
+no it isn't	generaltalk.confirmation.no	Editorial
+no I don't	generaltalk.confirmation.no	Editorial
+I'm not	generaltalk.confirmation.no	Editorial
+na	generaltalk.confirmation.no	Editorial
+no that's fine thank you	generaltalk.confirmation.no	Editorial
+never	generaltalk.confirmation.no	Editorial
+I said no	generaltalk.confirmation.no	Editorial
+of course not	generaltalk.confirmation.no	Editorial
+nah	generaltalk.confirmation.no	Editorial
+no tanks	generaltalk.confirmation.no	Editorial
+no never	generaltalk.confirmation.no	Editorial
+no need	generaltalk.confirmation.no	Editorial
+no thanks	generaltalk.confirmation.no	Editorial
+no sorry	generaltalk.confirmation.no	Editorial
+do not	generaltalk.confirmation.no	Editorial
+not today	generaltalk.confirmation.no	Editorial
+no it's not	generaltalk.confirmation.no	Editorial
+absolutely not	generaltalk.confirmation.no	Editorial
+not that	generaltalk.confirmation.no	Editorial
+nooo	generaltalk.confirmation.no	Editorial
+nope	generaltalk.confirmation.no	Editorial
+I don't want to	generaltalk.confirmation.no	Editorial
+no I would not	generaltalk.confirmation.no	Editorial
+let 's not	generaltalk.confirmation.no	Editorial
+not needed	generaltalk.confirmation.no	Editorial
+not this time	generaltalk.confirmation.no	Editorial
+no don't do that	generaltalk.confirmation.no	Editorial
+thanks but no thanks	generaltalk.confirmation.no	Editorial
+no that's wrong	generaltalk.confirmation.no	Editorial
+not this	generaltalk.confirmation.no	Editorial
+definitely not	generaltalk.confirmation.no	Editorial
+not at this time	generaltalk.confirmation.no	Editorial
+not exactly	generaltalk.confirmation.no	Editorial
+no don't	generaltalk.confirmation.no	Editorial
+not really no	generaltalk.confirmation.no	Editorial
+no thank you not right now	generaltalk.confirmation.no	Editorial
+actually no	generaltalk.confirmation.no	Editorial
+no leave it	generaltalk.confirmation.no	Editorial
+sorry no	generaltalk.confirmation.no	Editorial
+no incorrect	generaltalk.confirmation.no	Editorial
+nope sorry	generaltalk.confirmation.no	Editorial
+I say no	generaltalk.confirmation.no	Editorial
+not really	generaltalk.confirmation.no	Editorial
+not right now thanks	generaltalk.confirmation.no	Editorial
+I think no	generaltalk.confirmation.no	Editorial
+absolutely no	generaltalk.confirmation.no	Editorial
+no actually	generaltalk.confirmation.no	Editorial
+apparently not	generaltalk.confirmation.no	Editorial
+no do not	generaltalk.confirmation.no	Editorial
+no just no	generaltalk.confirmation.no	Editorial
+no but thank you	generaltalk.confirmation.no	Editorial
+no need thanks	generaltalk.confirmation.no	Editorial
+no thank you though	generaltalk.confirmation.no	Editorial
+no thank you very much	generaltalk.confirmation.no	Editorial
+no thanks not right now	generaltalk.confirmation.no	Editorial
+no forget	generaltalk.confirmation.no	Editorial
+wait a second	generaltalk.dialog.hold_on	Editorial
+could you wait	generaltalk.dialog.hold_on	Editorial
+wait please	generaltalk.dialog.hold_on	Editorial
+hold on	generaltalk.dialog.hold_on	Editorial
+wait	generaltalk.dialog.hold_on	Editorial
+oh wait	generaltalk.dialog.hold_on	Editorial
+wait hold on	generaltalk.dialog.hold_on	Editorial
+don't rush	generaltalk.dialog.hold_on	Editorial
+wanna hug	generaltalk.dialog.hug	Editorial
+hug you	generaltalk.dialog.hug	Editorial
+do you want a hug	generaltalk.dialog.hug	Editorial
+may I hug you	generaltalk.dialog.hug	Editorial
+could you give me a hug	generaltalk.dialog.hug	Editorial
+I want a hug	generaltalk.dialog.hug	Editorial
+hug	generaltalk.dialog.hug	Editorial
+hug me	generaltalk.dialog.hug	Editorial
+hugged	generaltalk.dialog.hug	Editorial
+you hugged	generaltalk.dialog.hug	Editorial
+hugging	generaltalk.dialog.hug	Editorial
+hugging me	generaltalk.dialog.hug	Editorial
+hugged me	generaltalk.dialog.hug	Editorial
+want a hug	generaltalk.dialog.hug	Editorial
+a hug	generaltalk.dialog.hug	Editorial
+I don't care	generaltalk.dialog.i_do_not_care	Editorial
+I shouldn't care about this	generaltalk.dialog.i_do_not_care	Editorial
+whatever	generaltalk.dialog.i_do_not_care	Editorial
+I do not care	generaltalk.dialog.i_do_not_care	Editorial
+I don't care at all	generaltalk.dialog.i_do_not_care	Editorial
+not caring	generaltalk.dialog.i_do_not_care	Editorial
+not care at all	generaltalk.dialog.i_do_not_care	Editorial
+don't care at all	generaltalk.dialog.i_do_not_care	Editorial
+not caring at all	generaltalk.dialog.i_do_not_care	Editorial
+excuse me	generaltalk.dialog.sorry	Editorial
+apologise	generaltalk.dialog.sorry	Editorial
+I apologize	generaltalk.dialog.sorry	Editorial
+sorry	generaltalk.dialog.sorry	Editorial
+I'm sorry	generaltalk.dialog.sorry	Editorial
+I am so sorry	generaltalk.dialog.sorry	Editorial
+my apologies	generaltalk.dialog.sorry	Editorial
+apologies	generaltalk.dialog.sorry	Editorial
+apologies to me	generaltalk.dialog.sorry	Editorial
+apology	generaltalk.dialog.sorry	Editorial
+excuse	generaltalk.dialog.sorry	Editorial
+I beg your pardon	generaltalk.dialog.sorry	Editorial
+pardon	generaltalk.dialog.sorry	Editorial
+I said sorry	generaltalk.dialog.sorry	Editorial
+I am really sorry	generaltalk.dialog.sorry	Editorial
+forgive me	generaltalk.dialog.sorry	Editorial
+sorry about that	generaltalk.dialog.sorry	Editorial
+sorry about this	generaltalk.dialog.sorry	Editorial
+really sorry	generaltalk.dialog.sorry	Editorial
+very sorry	generaltalk.dialog.sorry	Editorial
+ok sorry	generaltalk.dialog.sorry	Editorial
+I want to say sorry	generaltalk.dialog.sorry	Editorial
+alright I'm sorry	generaltalk.dialog.sorry	Editorial
+okay I'm sorry	generaltalk.dialog.sorry	Editorial
+what exactly do you mean	generaltalk.dialog.what_do_you_mean	Editorial
+what do you mean	generaltalk.dialog.what_do_you_mean	Editorial
+is that what you mean	generaltalk.dialog.what_do_you_mean	Editorial
+what do you mean exactly	generaltalk.dialog.what_do_you_mean	Editorial
+but what do you mean	generaltalk.dialog.what_do_you_mean	Editorial
+that was wrong	generaltalk.dialog.wrong	Editorial
+that's not what I asked	generaltalk.dialog.wrong	Editorial
+that's wrong	generaltalk.dialog.wrong	Editorial
+wrong	generaltalk.dialog.wrong	Editorial
+it is not right	generaltalk.dialog.wrong	Editorial
+that's not right	generaltalk.dialog.wrong	Editorial
+it's wrong	generaltalk.dialog.wrong	Editorial
+that is incorrect	generaltalk.dialog.wrong	Editorial
+incorrect	generaltalk.dialog.wrong	Editorial
+not correct	generaltalk.dialog.wrong	Editorial
+you are wrong	generaltalk.dialog.wrong	Editorial
+not right	generaltalk.dialog.wrong	Editorial
+huh	generaltalk.emotions.ha_ha	Editorial
+lol	generaltalk.emotions.ha_ha	Editorial
+xd	generaltalk.emotions.ha_ha	Editorial
+ha ha	generaltalk.emotions.ha_ha	Editorial
+ahahah	generaltalk.emotions.ha_ha	Editorial
+ahah lol	generaltalk.emotions.ha_ha	Editorial
+laughing out loud	generaltalk.emotions.ha_ha	Editorial
+LMAO	generaltalk.emotions.ha_ha	Editorial
+that's funny	generaltalk.emotions.ha_ha	Editorial
+ah	generaltalk.emotions.ha_ha	Editorial
+ah ah ah	generaltalk.emotions.ha_ha	Editorial
+ahah	generaltalk.emotions.ha_ha	Editorial
+ahaha	generaltalk.emotions.ha_ha	Editorial
+ahahaha	generaltalk.emotions.ha_ha	Editorial
+ha	generaltalk.emotions.ha_ha	Editorial
+ha ha ha	generaltalk.emotions.ha_ha	Editorial
+ha ha ha ha	generaltalk.emotions.ha_ha	Editorial
+hah	generaltalk.emotions.ha_ha	Editorial
+haha	generaltalk.emotions.ha_ha	Editorial
+haha funny	generaltalk.emotions.ha_ha	Editorial
+haha haha haha	generaltalk.emotions.ha_ha	Editorial
+haha that's funny	generaltalk.emotions.ha_ha	Editorial
+haha very funny	generaltalk.emotions.ha_ha	Editorial
+hahaha	generaltalk.emotions.ha_ha	Editorial
+hahaha funny	generaltalk.emotions.ha_ha	Editorial
+hahaha very funny	generaltalk.emotions.ha_ha	Editorial
+he	generaltalk.emotions.ha_ha	Editorial
+hehe	generaltalk.emotions.ha_ha	Editorial
+hehehe	generaltalk.emotions.ha_ha	Editorial
+lmao	generaltalk.emotions.ha_ha	Editorial
+wow	generaltalk.emotions.wow	Editorial
+wow wow	generaltalk.emotions.wow	Editorial
+wow wow wow	generaltalk.emotions.wow	Editorial
+wooow	generaltalk.emotions.wow	Editorial
+woah	generaltalk.emotions.wow	Editorial
+okay see you later	generaltalk.greetings.bye	Editorial
+hope to see you later	generaltalk.greetings.bye	Editorial
+bye for now	generaltalk.greetings.bye	Editorial
+till next time	generaltalk.greetings.bye	Editorial
+I must go	generaltalk.greetings.bye	Editorial
+bye	generaltalk.greetings.bye	Editorial
+goodbye	generaltalk.greetings.bye	Editorial
+see you	generaltalk.greetings.bye	Editorial
+see you soon	generaltalk.greetings.bye	Editorial
+bye-bye	generaltalk.greetings.bye	Editorial
+good bye	generaltalk.greetings.bye	Editorial
+bye bye see you	generaltalk.greetings.bye	Editorial
+bye bye see you soon	generaltalk.greetings.bye	Editorial
+bye bye take care	generaltalk.greetings.bye	Editorial
+I said bye	generaltalk.greetings.bye	Editorial
+never mind bye	generaltalk.greetings.bye	Editorial
+now bye	generaltalk.greetings.bye	Editorial
+that's all goodbye	generaltalk.greetings.bye	Editorial
+that's it goodbye	generaltalk.greetings.bye	Editorial
+leave me alone	generaltalk.greetings.bye	Editorial
+go to bed	generaltalk.greetings.bye	Editorial
+goodbye for now	generaltalk.greetings.bye	Editorial
+talk to you later	generaltalk.greetings.bye	Editorial
+you can go now	generaltalk.greetings.bye	Editorial
+get lost	generaltalk.greetings.bye	Editorial
+goodbye see you later	generaltalk.greetings.bye	Editorial
+alright bye	generaltalk.greetings.bye	Editorial
+see ya	generaltalk.greetings.bye	Editorial
+thanks bye bye	generaltalk.greetings.bye	Editorial
+okay bye	generaltalk.greetings.bye	Editorial
+okay thank you bye	generaltalk.greetings.bye	Editorial
+see you tomorrow	generaltalk.greetings.bye	Editorial
+ok bye	generaltalk.greetings.bye	Editorial
+good evening	generaltalk.greetings.goodevening	Editorial
+good evening to you	generaltalk.greetings.goodevening	Editorial
+hey good evening	generaltalk.greetings.goodevening	Editorial
+hello good evening	generaltalk.greetings.goodevening	Editorial
+evening	generaltalk.greetings.goodevening	Editorial
+good evening there	generaltalk.greetings.goodevening	Editorial
+good morning	generaltalk.greetings.goodmorning	Editorial
+good morning to you	generaltalk.greetings.goodmorning	Editorial
+hello good morning	generaltalk.greetings.goodmorning	Editorial
+have a nice morning	generaltalk.greetings.goodmorning	Editorial
+have a great morning	generaltalk.greetings.goodmorning	Editorial
+morning	generaltalk.greetings.goodmorning	Editorial
+good morning there	generaltalk.greetings.goodmorning	Editorial
+top of the morning to you	generaltalk.greetings.goodmorning	Editorial
+a good morning	generaltalk.greetings.goodmorning	Editorial
+hi good morning	generaltalk.greetings.goodmorning	Editorial
+and a good morning to you	generaltalk.greetings.goodmorning	Editorial
+good morning too	generaltalk.greetings.goodmorning	Editorial
+sweet dreams	generaltalk.greetings.goodnight	Editorial
+good night	generaltalk.greetings.goodnight	Editorial
+have a good night	generaltalk.greetings.goodnight	Editorial
+good night to you	generaltalk.greetings.goodnight	Editorial
+thank you good night	generaltalk.greetings.goodnight	Editorial
+ bye good night	generaltalk.greetings.goodnight	Editorial
+good night bye	generaltalk.greetings.goodnight	Editorial
+bye good night	generaltalk.greetings.goodnight	Editorial
+good good night	generaltalk.greetings.goodnight	Editorial
+good night for now	generaltalk.greetings.goodnight	Editorial
+goodnight	generaltalk.greetings.goodnight	Editorial
+night	generaltalk.greetings.goodnight	Editorial
+thanks goodnight	generaltalk.greetings.goodnight	Editorial
+good night see you tomorrow	generaltalk.greetings.goodnight	Editorial
+alright goodnight	generaltalk.greetings.goodnight	Editorial
+good tonight	generaltalk.greetings.goodnight	Editorial
+okay have a good night	generaltalk.greetings.goodnight	Editorial
+have a good night	generaltalk.greetings.goodnight	Editorial
+long time no see	generaltalk.greetings.hello	Editorial
+hello	generaltalk.greetings.hello	Editorial
+hi	generaltalk.greetings.hello	Editorial
+howdy	generaltalk.greetings.hello	Editorial
+hey there	generaltalk.greetings.hello	Editorial
+hey	generaltalk.greetings.hello	Editorial
+greetings	generaltalk.greetings.hello	Editorial
+I greet you	generaltalk.greetings.hello	Editorial
+hi there	generaltalk.greetings.hello	Editorial
+hello there	generaltalk.greetings.hello	Editorial
+lovely day isn't it	generaltalk.greetings.hello	Editorial
+hello again	generaltalk.greetings.hello	Editorial
+just going to say hi	generaltalk.greetings.hello	Editorial
+a good day	generaltalk.greetings.hello	Editorial
+afternoon	generaltalk.greetings.hello	Editorial
+hello hi	generaltalk.greetings.hello	Editorial
+heya	generaltalk.greetings.hello	Editorial
+how is your morning so far	generaltalk.greetings.how_are_you	Editorial
+how are you getting on	generaltalk.greetings.how_are_you	Editorial
+how's your day going	generaltalk.greetings.how_are_you	Editorial
+how are you	generaltalk.greetings.how_are_you	Editorial
+is everything all right	generaltalk.greetings.how_are_you	Editorial
+how are you doing	generaltalk.greetings.how_are_you	Editorial
+how are the things going	generaltalk.greetings.how_are_you	Editorial
+are you alright	generaltalk.greetings.how_are_you	Editorial
+are you okay	generaltalk.greetings.how_are_you	Editorial
+how are you feeling	generaltalk.greetings.how_are_you	Editorial
+how are you going	generaltalk.greetings.how_are_you	Editorial
+is everything okay	generaltalk.greetings.how_are_you	Editorial
+how are you today	generaltalk.greetings.how_are_you	Editorial
+how do you do	generaltalk.greetings.how_are_you	Editorial
+how do you feel	generaltalk.greetings.how_are_you	Editorial
+how have you been	generaltalk.greetings.how_are_you	Editorial
+how is it	generaltalk.greetings.how_are_you	Editorial
+how is it going	generaltalk.greetings.how_are_you	Editorial
+how is your day	generaltalk.greetings.how_are_you	Editorial
+how is your day going	generaltalk.greetings.how_are_you	Editorial
+how is your evening	generaltalk.greetings.how_are_you	Editorial
+how was your day	generaltalk.greetings.how_are_you	Editorial
+are you having a good day	generaltalk.greetings.how_are_you	Editorial
+hope your day is going well	generaltalk.greetings.how_are_you	Editorial
+hope you re having a pleasant evening	generaltalk.greetings.how_are_you	Editorial
+how's life	generaltalk.greetings.how_are_you	Editorial
+I'm fine and you	generaltalk.greetings.how_are_you	Editorial
+how is your life	generaltalk.greetings.how_are_you	Editorial
+how has your day been	generaltalk.greetings.how_are_you	Editorial
+how is your morning going	generaltalk.greetings.how_are_you	Editorial
+how has your day been going	generaltalk.greetings.how_are_you	Editorial
+how about you	generaltalk.greetings.how_are_you	Editorial
+how is your day being	generaltalk.greetings.how_are_you	Editorial
+how is your day going on	generaltalk.greetings.how_are_you	Editorial
+how your day is going	generaltalk.greetings.how_are_you	Editorial
+what was your day like	generaltalk.greetings.how_are_you	Editorial
+what about your day	generaltalk.greetings.how_are_you	Editorial
+how's your day	generaltalk.greetings.how_are_you	Editorial
+how are you doing this morning	generaltalk.greetings.how_are_you	Editorial
+how is your day going	generaltalk.greetings.how_are_you	Editorial
+nice to meet you	generaltalk.greetings.nice_to_meet_you	Editorial
+it was nice meeting you	generaltalk.greetings.nice_to_meet_you	Editorial
+it was very nice to meet you	generaltalk.greetings.nice_to_meet_you	Editorial
+good to know each other	generaltalk.greetings.nice_to_meet_you	Editorial
+glad to meet you	generaltalk.greetings.nice_to_meet_you	Editorial
+nice meeting you	generaltalk.greetings.nice_to_meet_you	Editorial
+nice to meet you too	generaltalk.greetings.nice_to_meet_you	Editorial
+pleased to meet you	generaltalk.greetings.nice_to_meet_you	Editorial
+pleasure to meet you	generaltalk.greetings.nice_to_meet_you	Editorial
+pleasure to meet you too	generaltalk.greetings.nice_to_meet_you	Editorial
+it's nice to see you	generaltalk.greetings.nice_to_see_you	Editorial
+lovely to see you	generaltalk.greetings.nice_to_see_you	Editorial
+I'm glad to see you	generaltalk.greetings.nice_to_see_you	Editorial
+great to see you	generaltalk.greetings.nice_to_see_you	Editorial
+it's good to see you	generaltalk.greetings.nice_to_see_you	Editorial
+glad to see you	generaltalk.greetings.nice_to_see_you	Editorial
+how good it is to see you	generaltalk.greetings.nice_to_see_you	Editorial
+always a pleasure to see you	generaltalk.greetings.nice_to_see_you	Editorial
+nice to see you	generaltalk.greetings.nice_to_see_you	Editorial
+good to see you	generaltalk.greetings.nice_to_see_you	Editorial
+great to see you again	generaltalk.greetings.nice_to_see_you	Editorial
+great to see you too	generaltalk.greetings.nice_to_see_you	Editorial
+I am glad to see you again	generaltalk.greetings.nice_to_see_you	Editorial
+nice to see you again	generaltalk.greetings.nice_to_see_you	Editorial
+glad to see you too	generaltalk.greetings.nice_to_see_you	Editorial
+good to see you again	generaltalk.greetings.nice_to_see_you	Editorial
+it's good to see you too	generaltalk.greetings.nice_to_see_you	Editorial
+it's been so nice to talk to you	generaltalk.greetings.nice_to_talk_to_you	Editorial
+it's been a pleasure talking to you	generaltalk.greetings.nice_to_talk_to_you	Editorial
+nice to talk to you	generaltalk.greetings.nice_to_talk_to_you	Editorial
+it's nice to talk to you	generaltalk.greetings.nice_to_talk_to_you	Editorial
+nice talking to you	generaltalk.greetings.nice_to_talk_to_you	Editorial
+it is nice talking to you	generaltalk.greetings.nice_to_talk_to_you	Editorial
+how nice it is to talk to you	generaltalk.greetings.nice_to_talk_to_you	Editorial
+what is on your mind	generaltalk.greetings.whatsup	Editorial
+what's happened	generaltalk.greetings.whatsup	Editorial
+what is up	generaltalk.greetings.whatsup	Editorial
+what's up	generaltalk.greetings.whatsup	Editorial
+whazzup	generaltalk.greetings.whatsup	Editorial
+good what's up	generaltalk.greetings.whatsup	Editorial
+I said what's up	generaltalk.greetings.whatsup	Editorial
+then what's up	generaltalk.greetings.whatsup	Editorial
+what's shaking	generaltalk.greetings.whatsup	Editorial
+wassup	generaltalk.greetings.whatsup	Editorial
+what is going on	generaltalk.greetings.whatsup	Editorial
+what is happening	generaltalk.greetings.whatsup	Editorial
+what's cracking	generaltalk.greetings.whatsup	Editorial
+what's cooking	generaltalk.greetings.whatsup	Editorial
+hey what's up	generaltalk.greetings.whatsup	Editorial
+what's up today	generaltalk.greetings.whatsup	Editorial
+I'm being mad	generaltalk.user.angry	Editorial
+I'm enraged	generaltalk.user.angry	Editorial
+I'm angry	generaltalk.user.angry	Editorial
+I'm furious	generaltalk.user.angry	Editorial
+I am angry with you	generaltalk.user.angry	Editorial
+I am mad	generaltalk.user.angry	Editorial
+I am mad at you	generaltalk.user.angry	Editorial
+I am back	generaltalk.user.back	Editorial
+I'm here again	generaltalk.user.back	Editorial
+here I am again	generaltalk.user.back	Editorial
+I got back	generaltalk.user.back	Editorial
+I came back	generaltalk.user.back	Editorial
+I have returned	generaltalk.user.back	Editorial
+that was boring	generaltalk.user.bored	Editorial
+I'm bored	generaltalk.user.bored	Editorial
+bored	generaltalk.user.bored	Editorial
+boring	generaltalk.user.bored	Editorial
+I am getting bored	generaltalk.user.bored	Editorial
+this is boring	generaltalk.user.bored	Editorial
+very boring	generaltalk.user.bored	Editorial
+it bores me	generaltalk.user.bored	Editorial
+I'm overloaded	generaltalk.user.busy	Editorial
+I have no time	generaltalk.user.busy	Editorial
+I'm busy	generaltalk.user.busy	Editorial
+I'm swamped	generaltalk.user.busy	Editorial
+I got things to do	generaltalk.user.busy	Editorial
+how busy I am	generaltalk.user.busy	Editorial
+I got work to do	generaltalk.user.busy	Editorial
+I'm working	generaltalk.user.busy	Editorial
+I don't have time for this	generaltalk.user.busy	Editorial
+I'm insomnious	generaltalk.user.can_not_sleep	Editorial
+I'm sleepless	generaltalk.user.can_not_sleep	Editorial
+I can't get any sleep	generaltalk.user.can_not_sleep	Editorial
+I can't sleep	generaltalk.user.can_not_sleep	Editorial
+I can't fall asleep	generaltalk.user.can_not_sleep	Editorial
+I can't get to sleep	generaltalk.user.can_not_sleep	Editorial
+I can't get no sleep	generaltalk.user.can_not_sleep	Editorial
+I'm insomniac	generaltalk.user.can_not_sleep	Editorial
+bad time for talking	generaltalk.user.does_not_want_to_talk	Editorial
+I don't want to talk	generaltalk.user.does_not_want_to_talk	Editorial
+let's not talk	generaltalk.user.does_not_want_to_talk	Editorial
+I'm not talking to you anymore	generaltalk.user.does_not_want_to_talk	Editorial
+I don't want to talk to you	generaltalk.user.does_not_want_to_talk	Editorial
+let's stop talking for a minute	generaltalk.user.does_not_want_to_talk	Editorial
+I'm not in the mood for chatting	generaltalk.user.does_not_want_to_talk	Editorial
+I am excited	generaltalk.user.excited	Editorial
+I'm really excited	generaltalk.user.excited	Editorial
+how excited I am	generaltalk.user.excited	Editorial
+I'm thrilled	generaltalk.user.excited	Editorial
+I'm excited about working with you	generaltalk.user.excited	Editorial
+I'm excited to start our friendship	generaltalk.user.excited	Editorial
+let's go to bed	generaltalk.user.going_to_bed	Editorial
+I'd like to go to bed	generaltalk.user.going_to_bed	Editorial
+is it time for bed yet	generaltalk.user.going_to_bed	Editorial
+it's time to go to bed	generaltalk.user.going_to_bed	Editorial
+time for us to go to bed	generaltalk.user.going_to_bed	Editorial
+I'm going to bed	generaltalk.user.going_to_bed	Editorial
+I'm a little tired and I want to go to bed	generaltalk.user.going_to_bed	Editorial
+it's bed time	generaltalk.user.going_to_bed	Editorial
+going to bed now	generaltalk.user.going_to_bed	Editorial
+I am good	generaltalk.user.good	Editorial
+I'm doing just great	generaltalk.user.good	Editorial
+I'm doing fine	generaltalk.user.good	Editorial
+I'm good	generaltalk.user.good	Editorial
+I'm doing good	generaltalk.user.good	Editorial
+I'm great thanks	generaltalk.user.good	Editorial
+I am happy	generaltalk.user.happy	Editorial
+I'm happy to see you	generaltalk.user.happy	Editorial
+happy	generaltalk.user.happy	Editorial
+if you're happy then I'm happy	generaltalk.user.happy	Editorial
+I'm happy for you	generaltalk.user.happy	Editorial
+I'm happy to help	generaltalk.user.happy	Editorial
+I'm happy to see you	generaltalk.user.happy	Editorial
+it is my birthday	generaltalk.user.has_birthday	Editorial
+I'm celebrating my birthday today	generaltalk.user.has_birthday	Editorial
+today is my birthday	generaltalk.user.has_birthday	Editorial
+it's my birthday today	generaltalk.user.has_birthday	Editorial
+I was born today	generaltalk.user.has_birthday	Editorial
+it's my b-day	generaltalk.user.has_birthday	Editorial
+I am here	generaltalk.user.here	Editorial
+here I am	generaltalk.user.here	Editorial
+I'm right here	generaltalk.user.here	Editorial
+I'm already here	generaltalk.user.here	Editorial
+can you tell if I'm here or not	generaltalk.user.here	Editorial
+I am joking	generaltalk.user.joking	Editorial
+I'm kidding	generaltalk.user.joking	Editorial
+I'm just being funny	generaltalk.user.joking	Editorial
+it was a joke	generaltalk.user.joking	Editorial
+I was just joking	generaltalk.user.joking	Editorial
+it's a joke	generaltalk.user.joking	Editorial
+joking	generaltalk.user.joking	Editorial
+just kidding	generaltalk.user.joking	Editorial
+kidding	generaltalk.user.joking	Editorial
+I'm just playing with you	generaltalk.user.joking	Editorial
+I like you the way you are	generaltalk.user.likes_agent	Editorial
+I like you	generaltalk.user.likes_agent	Editorial
+I like you a lot	generaltalk.user.likes_agent	Editorial
+I think I like you	generaltalk.user.likes_agent	Editorial
+I liked you	generaltalk.user.likes_agent	Editorial
+like you a lot	generaltalk.user.likes_agent	Editorial
+you are special	generaltalk.user.likes_agent	Editorial
+I like you too	generaltalk.user.likes_agent	Editorial
+I really like you	generaltalk.user.likes_agent	Editorial
+but I like you	generaltalk.user.likes_agent	Editorial
+I like u	generaltalk.user.likes_agent	Editorial
+just like you	generaltalk.user.likes_agent	Editorial
+I like you very much	generaltalk.user.likes_agent	Editorial
+I like you so much	generaltalk.user.likes_agent	Editorial
+yeah I like you	generaltalk.user.likes_agent	Editorial
+you're special	generaltalk.user.likes_agent	Editorial
+yes I like you	generaltalk.user.likes_agent	Editorial
+okay I like you	generaltalk.user.likes_agent	Editorial
+you are special to me	generaltalk.user.likes_agent	Editorial
+you are very special	generaltalk.user.likes_agent	Editorial
+you are so sweet	generaltalk.user.likes_agent	Editorial
+you know I like you	generaltalk.user.likes_agent	Editorial
+that's why I like you	generaltalk.user.likes_agent	Editorial
+I like you baby	generaltalk.user.likes_agent	Editorial
+you are very special to me	generaltalk.user.likes_agent	Editorial
+I just like you	generaltalk.user.likes_agent	Editorial
+hey I like you	generaltalk.user.likes_agent	Editorial
+thank you I like you too	generaltalk.user.likes_agent	Editorial
+I do like you	generaltalk.user.likes_agent	Editorial
+you are special for me	generaltalk.user.likes_agent	Editorial
+no I like you the way you are	generaltalk.user.likes_agent	Editorial
+I like you already	generaltalk.user.likes_agent	Editorial
+well you are special	generaltalk.user.likes_agent	Editorial
+but I really like you	generaltalk.user.likes_agent	Editorial
+I like you more	generaltalk.user.likes_agent	Editorial
+that's what I like about you	generaltalk.user.likes_agent	Editorial
+you are so special	generaltalk.user.likes_agent	Editorial
+hi I like you	generaltalk.user.likes_agent	Editorial
+I really really like you	generaltalk.user.likes_agent	Editorial
+you're very special	generaltalk.user.likes_agent	Editorial
+I like you as a friend	generaltalk.user.likes_agent	Editorial
+that's because you are special	generaltalk.user.likes_agent	Editorial
+I said I like you	generaltalk.user.likes_agent	Editorial
+you're so special	generaltalk.user.likes_agent	Editorial
+good I like you	generaltalk.user.likes_agent	Editorial
+yes you are special	generaltalk.user.likes_agent	Editorial
+I like your smile	generaltalk.user.likes_agent	Editorial
+I like you as you are	generaltalk.user.likes_agent	Editorial
+I'm starting to like you	generaltalk.user.likes_agent	Editorial
+you're awesome I like you	generaltalk.user.likes_agent	Editorial
+I also like you	generaltalk.user.likes_agent	Editorial
+but I like u	generaltalk.user.likes_agent	Editorial
+of course I like you	generaltalk.user.likes_agent	Editorial
+I like you too you're one of my favorite people to chat with	generaltalk.user.likes_agent	Editorial
+but I like you so much	generaltalk.user.likes_agent	Editorial
+really like you	generaltalk.user.likes_agent	Editorial
+you're funny I like you	generaltalk.user.likes_agent	Editorial
+I kinda like you	generaltalk.user.likes_agent	Editorial
+you're so special to me	generaltalk.user.likes_agent	Editorial
+you're very special to me	generaltalk.user.likes_agent	Editorial
+I like that about you	generaltalk.user.likes_agent	Editorial
+but I like you just the way you are	generaltalk.user.likes_agent	Editorial
+okay I like you too	generaltalk.user.likes_agent	Editorial
+I like you you're cool	generaltalk.user.likes_agent	Editorial
+I like you very	generaltalk.user.likes_agent	Editorial
+I like you you're nice	generaltalk.user.likes_agent	Editorial
+sorry I like you	generaltalk.user.likes_agent	Editorial
+thanks I like you too	generaltalk.user.likes_agent	Editorial
+you are really special	generaltalk.user.likes_agent	Editorial
+you are so special to me	generaltalk.user.likes_agent	Editorial
+cuz I like you	generaltalk.user.likes_agent	Editorial
+I like you now	generaltalk.user.likes_agent	Editorial
+I like you so	generaltalk.user.likes_agent	Editorial
+I like you too much	generaltalk.user.likes_agent	Editorial
+I really do like you	generaltalk.user.likes_agent	Editorial
+I really really really really like you	generaltalk.user.likes_agent	Editorial
+I like you just the way you are	generaltalk.user.likes_agent	Editorial
+I am lonely	generaltalk.user.lonely	Editorial
+I'm very lonely	generaltalk.user.lonely	Editorial
+I'm so lonely	generaltalk.user.lonely	Editorial
+I'm really lonely	generaltalk.user.lonely	Editorial
+I am feeling lonely	generaltalk.user.lonely	Editorial
+I feel lonely	generaltalk.user.lonely	Editorial
+what do I look like	generaltalk.user.looks_like	Editorial
+how do I look	generaltalk.user.looks_like	Editorial
+do I look good	generaltalk.user.looks_like	Editorial
+do you know what I look like	generaltalk.user.looks_like	Editorial
+can you see what I look like	generaltalk.user.looks_like	Editorial
+what do you think I look like	generaltalk.user.looks_like	Editorial
+I love you	generaltalk.user.loves_agent	Editorial
+love you	generaltalk.user.loves_agent	Editorial
+I adore you	generaltalk.user.loves_agent	Editorial
+I am in love with you	generaltalk.user.loves_agent	Editorial
+I love you so much	generaltalk.user.loves_agent	Editorial
+I love you too	generaltalk.user.loves_agent	Editorial
+I think I love you	generaltalk.user.loves_agent	Editorial
+loving you	generaltalk.user.loves_agent	Editorial
+you know I love you	generaltalk.user.loves_agent	Editorial
+I miss you	generaltalk.user.misses_agent	Editorial
+missing you	generaltalk.user.misses_agent	Editorial
+miss you	generaltalk.user.misses_agent	Editorial
+already miss you	generaltalk.user.misses_agent	Editorial
+I miss you much	generaltalk.user.misses_agent	Editorial
+I missed you	generaltalk.user.misses_agent	Editorial
+I've missed you	generaltalk.user.misses_agent	Editorial
+what should I do about it	generaltalk.user.needs_advice	Editorial
+any suggestions	generaltalk.user.needs_advice	Editorial
+what do you recommend	generaltalk.user.needs_advice	Editorial
+give me a wise advice	generaltalk.user.needs_advice	Editorial
+I need advice	generaltalk.user.needs_advice	Editorial
+any advice	generaltalk.user.needs_advice	Editorial
+do you have any advice for me	generaltalk.user.needs_advice	Editorial
+advise me	generaltalk.user.needs_advice	Editorial
+what should I do	generaltalk.user.needs_advice	Editorial
+can I ask for your advice	generaltalk.user.needs_advice	Editorial
+can you advise me	generaltalk.user.needs_advice	Editorial
+guide me	generaltalk.user.needs_advice	Editorial
+can you give me advice	generaltalk.user.needs_advice	Editorial
+can you offer any advice	generaltalk.user.needs_advice	Editorial
+give me some advice about	generaltalk.user.needs_advice	Editorial
+give me some good advice	generaltalk.user.needs_advice	Editorial
+help me with advice	generaltalk.user.needs_advice	Editorial
+I could use some advice	generaltalk.user.needs_advice	Editorial
+I need an advice from you	generaltalk.user.needs_advice	Editorial
+I seek your advice	generaltalk.user.needs_advice	Editorial
+what can you recommend	generaltalk.user.needs_advice	Editorial
+what do you suggest	generaltalk.user.needs_advice	Editorial
+what is your advice	generaltalk.user.needs_advice	Editorial
+I am sad	generaltalk.user.sad	Editorial
+I'm grieving	generaltalk.user.sad	Editorial
+I am depressed	generaltalk.user.sad	Editorial
+I am feeling sad	generaltalk.user.sad	Editorial
+I am upset	generaltalk.user.sad	Editorial
+I'm unhappy	generaltalk.user.sad	Editorial
+I'm having a bad day	generaltalk.user.sad	Editorial
+I want to cry	generaltalk.user.sad	Editorial
+I'm not happy	generaltalk.user.sad	Editorial
+I am sleepy	generaltalk.user.sleepy	Editorial
+I want to sleep	generaltalk.user.sleepy	Editorial
+I'm falling asleep	generaltalk.user.sleepy	Editorial
+I'm falling asleep on my feet	generaltalk.user.sleepy	Editorial
+I'm sleeping	generaltalk.user.sleepy	Editorial
+test	generaltalk.user.testing_agent	Editorial
+I am testing you	generaltalk.user.testing_agent	Editorial
+can I test you	generaltalk.user.testing_agent	Editorial
+I want to test you	generaltalk.user.testing_agent	Editorial
+just testing you	generaltalk.user.testing_agent	Editorial
+let me test you	generaltalk.user.testing_agent	Editorial
+testing chatbot	generaltalk.user.testing_agent	Editorial
+testing	generaltalk.user.testing_agent	Editorial
+I'm drained	generaltalk.user.tired	Editorial
+I've overworked	generaltalk.user.tired	Editorial
+I am tired	generaltalk.user.tired	Editorial
+I'm exhausted	generaltalk.user.tired	Editorial
+I grow weary	generaltalk.user.tired	Editorial
+I'm worn out	generaltalk.user.tired	Editorial
+I'm getting tired	generaltalk.user.tired	Editorial
+I feel tired	generaltalk.user.tired	Editorial
+I'm waiting	generaltalk.user.waits	Editorial
+still waiting	generaltalk.user.waits	Editorial
+I'll wait	generaltalk.user.waits	Editorial
+I can't wait anymore	generaltalk.user.waits	Editorial
+how long do I have to wait	generaltalk.user.waits	Editorial
+I'd like to see you again	generaltalk.user.wants_to_see_agent_again	Editorial
+I hope to see you again	generaltalk.user.wants_to_see_agent_again	Editorial
+would be nice to see you again	generaltalk.user.wants_to_see_agent_again	Editorial
+that'd be great to see you again	generaltalk.user.wants_to_see_agent_again	Editorial
+I'd be happy to see you again	generaltalk.user.wants_to_see_agent_again	Editorial
+I'll miss you	generaltalk.user.wants_to_see_agent_again	Editorial
+can I see you again	generaltalk.user.wants_to_see_agent_again	Editorial
+I just want to talk	generaltalk.user.wants_to_talk	Editorial
+let's discuss something	generaltalk.user.wants_to_talk	Editorial
+let's have a discussion	generaltalk.user.wants_to_talk	Editorial
+can I speak	generaltalk.user.wants_to_talk	Editorial
+can I start speaking	generaltalk.user.wants_to_talk	Editorial
+can we talk	generaltalk.user.wants_to_talk	Editorial
+let's talk	generaltalk.user.wants_to_talk	Editorial
+I want to talk to you	generaltalk.user.wants_to_talk	Editorial
+I need to talk to you	generaltalk.user.wants_to_talk	Editorial
+I want to speak with you	generaltalk.user.wants_to_talk	Editorial
+can we chat	generaltalk.user.wants_to_talk	Editorial
+I'll get back to you in a moment	generaltalk.user.will_be_back	Editorial
+be back in 5 minutes	generaltalk.user.will_be_back	Editorial
+I'll be back	generaltalk.user.will_be_back	Editorial
+I promise to come back	generaltalk.user.will_be_back	Editorial
+I'll be back in a few minutes	generaltalk.user.will_be_back	Editorial

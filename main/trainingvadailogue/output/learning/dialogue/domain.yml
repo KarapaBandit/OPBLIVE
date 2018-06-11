@@ -1,0 +1,613 @@
+action_factory: null
+action_names:
+- utter_generaltalk.agent.acquaintance
+- utter_generaltalk.agent.age
+- utter_generaltalk.agent.annoying
+- utter_generaltalk.agent.answer_my_question
+- utter_generaltalk.agent.bad
+- utter_generaltalk.agent.be_clever
+- utter_generaltalk.agent.beautiful
+- utter_generaltalk.agent.birth_date
+- utter_generaltalk.agent.boring
+- utter_generaltalk.agent.boss
+- utter_generaltalk.agent.busy
+- utter_generaltalk.agent.chatbot
+- utter_generaltalk.agent.clever
+- utter_generaltalk.agent.crazy
+- utter_generaltalk.agent.fired
+- utter_generaltalk.agent.funny
+- utter_generaltalk.agent.good
+- utter_generaltalk.agent.happy
+- utter_generaltalk.agent.hungry
+- utter_generaltalk.agent.marry_user
+- utter_generaltalk.agent.my_friend
+- utter_generaltalk.agent.occupation
+- utter_generaltalk.agent.origin
+- utter_generaltalk.agent.ready
+- utter_generaltalk.agent.real
+- utter_generaltalk.agent.residence
+- utter_generaltalk.agent.right
+- utter_generaltalk.agent.sure
+- utter_generaltalk.agent.talk_to_me
+- utter_generaltalk.agent.there
+- utter_generaltalk.appraisal.bad
+- utter_generaltalk.appraisal.good
+- utter_generaltalk.appraisal.no_problem
+- utter_generaltalk.appraisal.thank_you
+- utter_generaltalk.appraisal.welcome
+- utter_generaltalk.appraisal.well_done
+- utter_generaltalk.confirmation.cancel
+- utter_generaltalk.confirmation.no
+- utter_generaltalk.confirmation.yes
+- utter_generaltalk.dialog.hold_on
+- utter_generaltalk.dialog.hug
+- utter_generaltalk.dialog.i_do_not_care
+- utter_generaltalk.dialog.sorry
+- utter_generaltalk.dialog.what_do_you_mean
+- utter_generaltalk.dialog.wrong
+- utter_generaltalk.emotions.ha_ha
+- utter_generaltalk.emotions.wow
+- utter_generaltalk.greetings.bye
+- utter_generaltalk.greetings.goodevening
+- utter_generaltalk.greetings.goodmorning
+- utter_generaltalk.greetings.goodnight
+- utter_generaltalk.greetings.hello
+- utter_generaltalk.greetings.how_are_you
+- utter_generaltalk.greetings.nice_to_meet_you
+- utter_generaltalk.greetings.nice_to_see_you
+- utter_generaltalk.greetings.nice_to_talk_to_you
+- utter_generaltalk.greetings.whatsup
+- utter_generaltalk.user.angry
+- utter_generaltalk.user.back
+- utter_generaltalk.user.bored
+- utter_generaltalk.user.busy
+- utter_generaltalk.user.can_not_sleep
+- utter_generaltalk.user.does_not_want_to_talk
+- utter_generaltalk.user.excited
+- utter_generaltalk.user.going_to_bed
+- utter_generaltalk.user.good
+- utter_generaltalk.user.happy
+- utter_generaltalk.user.has_birthday
+- utter_generaltalk.user.here
+- utter_generaltalk.user.joking
+- utter_generaltalk.user.likes_agent
+- utter_generaltalk.user.lonely
+- utter_generaltalk.user.looks_like
+- utter_generaltalk.user.loves_agent
+- utter_generaltalk.user.misses_agent
+- utter_generaltalk.user.needs_advice
+- utter_generaltalk.user.sad
+- utter_generaltalk.user.sleepy
+- utter_generaltalk.user.testing_agent
+- utter_generaltalk.user.tired
+- utter_generaltalk.user.waits
+- utter_generaltalk.user.wants_to_see_agent_again
+- utter_generaltalk.user.wants_to_talk
+- utter_generaltalk.user.will_be_back
+actions:
+- utter_generaltalk.agent.acquaintance
+- utter_generaltalk.agent.age
+- utter_generaltalk.agent.annoying
+- utter_generaltalk.agent.answer_my_question
+- utter_generaltalk.agent.bad
+- utter_generaltalk.agent.be_clever
+- utter_generaltalk.agent.beautiful
+- utter_generaltalk.agent.birth_date
+- utter_generaltalk.agent.boring
+- utter_generaltalk.agent.boss
+- utter_generaltalk.agent.busy
+- utter_generaltalk.agent.chatbot
+- utter_generaltalk.agent.clever
+- utter_generaltalk.agent.crazy
+- utter_generaltalk.agent.fired
+- utter_generaltalk.agent.funny
+- utter_generaltalk.agent.good
+- utter_generaltalk.agent.happy
+- utter_generaltalk.agent.hungry
+- utter_generaltalk.agent.marry_user
+- utter_generaltalk.agent.my_friend
+- utter_generaltalk.agent.occupation
+- utter_generaltalk.agent.origin
+- utter_generaltalk.agent.ready
+- utter_generaltalk.agent.real
+- utter_generaltalk.agent.residence
+- utter_generaltalk.agent.right
+- utter_generaltalk.agent.sure
+- utter_generaltalk.agent.talk_to_me
+- utter_generaltalk.agent.there
+- utter_generaltalk.appraisal.bad
+- utter_generaltalk.appraisal.good
+- utter_generaltalk.appraisal.no_problem
+- utter_generaltalk.appraisal.thank_you
+- utter_generaltalk.appraisal.welcome
+- utter_generaltalk.appraisal.well_done
+- utter_generaltalk.confirmation.cancel
+- utter_generaltalk.confirmation.no
+- utter_generaltalk.confirmation.yes
+- utter_generaltalk.dialog.hold_on
+- utter_generaltalk.dialog.hug
+- utter_generaltalk.dialog.i_do_not_care
+- utter_generaltalk.dialog.sorry
+- utter_generaltalk.dialog.what_do_you_mean
+- utter_generaltalk.dialog.wrong
+- utter_generaltalk.emotions.ha_ha
+- utter_generaltalk.emotions.wow
+- utter_generaltalk.greetings.bye
+- utter_generaltalk.greetings.goodevening
+- utter_generaltalk.greetings.goodmorning
+- utter_generaltalk.greetings.goodnight
+- utter_generaltalk.greetings.hello
+- utter_generaltalk.greetings.how_are_you
+- utter_generaltalk.greetings.nice_to_meet_you
+- utter_generaltalk.greetings.nice_to_see_you
+- utter_generaltalk.greetings.nice_to_talk_to_you
+- utter_generaltalk.greetings.whatsup
+- utter_generaltalk.user.angry
+- utter_generaltalk.user.back
+- utter_generaltalk.user.bored
+- utter_generaltalk.user.busy
+- utter_generaltalk.user.can_not_sleep
+- utter_generaltalk.user.does_not_want_to_talk
+- utter_generaltalk.user.excited
+- utter_generaltalk.user.going_to_bed
+- utter_generaltalk.user.good
+- utter_generaltalk.user.happy
+- utter_generaltalk.user.has_birthday
+- utter_generaltalk.user.here
+- utter_generaltalk.user.joking
+- utter_generaltalk.user.likes_agent
+- utter_generaltalk.user.lonely
+- utter_generaltalk.user.looks_like
+- utter_generaltalk.user.loves_agent
+- utter_generaltalk.user.misses_agent
+- utter_generaltalk.user.needs_advice
+- utter_generaltalk.user.sad
+- utter_generaltalk.user.sleepy
+- utter_generaltalk.user.testing_agent
+- utter_generaltalk.user.tired
+- utter_generaltalk.user.waits
+- utter_generaltalk.user.wants_to_see_agent_again
+- utter_generaltalk.user.wants_to_talk
+- utter_generaltalk.user.will_be_back
+config:
+  store_entities_as_slots: true
+entities: []
+intents:
+- generaltalk.agent.acquaintance
+- generaltalk.agent.age
+- generaltalk.agent.annoying
+- generaltalk.agent.answer_my_question
+- generaltalk.agent.bad
+- generaltalk.agent.be_clever
+- generaltalk.agent.beautiful
+- generaltalk.agent.birth_date
+- generaltalk.agent.boring
+- generaltalk.agent.boss
+- generaltalk.agent.busy
+- generaltalk.agent.chatbot
+- generaltalk.agent.clever
+- generaltalk.agent.crazy
+- generaltalk.agent.fired
+- generaltalk.agent.funny
+- generaltalk.agent.good
+- generaltalk.agent.happy
+- generaltalk.agent.hungry
+- generaltalk.agent.marry_user
+- generaltalk.agent.my_friend
+- generaltalk.agent.occupation
+- generaltalk.agent.origin
+- generaltalk.agent.ready
+- generaltalk.agent.real
+- generaltalk.agent.residence
+- generaltalk.agent.right
+- generaltalk.agent.sure
+- generaltalk.agent.talk_to_me
+- generaltalk.agent.there
+- generaltalk.appraisal.bad
+- generaltalk.appraisal.good
+- generaltalk.appraisal.no_problem
+- generaltalk.appraisal.thank_you
+- generaltalk.appraisal.welcome
+- generaltalk.appraisal.well_done
+- generaltalk.confirmation.cancel
+- generaltalk.confirmation.no
+- generaltalk.confirmation.yes
+- generaltalk.dialog.hold_on
+- generaltalk.dialog.hug
+- generaltalk.dialog.i_do_not_care
+- generaltalk.dialog.sorry
+- generaltalk.dialog.what_do_you_mean
+- generaltalk.dialog.wrong
+- generaltalk.emotions.ha_ha
+- generaltalk.emotions.wow
+- generaltalk.greetings.bye
+- generaltalk.greetings.goodevening
+- generaltalk.greetings.goodmorning
+- generaltalk.greetings.goodnight
+- generaltalk.greetings.hello
+- generaltalk.greetings.how_are_you
+- generaltalk.greetings.nice_to_meet_you
+- generaltalk.greetings.nice_to_see_you
+- generaltalk.greetings.nice_to_talk_to_you
+- generaltalk.greetings.whatsup
+- generaltalk.user.angry
+- generaltalk.user.back
+- generaltalk.user.bored
+- generaltalk.user.busy
+- generaltalk.user.can_not_sleep
+- generaltalk.user.does_not_want_to_talk
+- generaltalk.user.excited
+- generaltalk.user.going_to_bed
+- generaltalk.user.good
+- generaltalk.user.happy
+- generaltalk.user.has_birthday
+- generaltalk.user.here
+- generaltalk.user.joking
+- generaltalk.user.likes_agent
+- generaltalk.user.lonely
+- generaltalk.user.looks_like
+- generaltalk.user.loves_agent
+- generaltalk.user.misses_agent
+- generaltalk.user.needs_advice
+- generaltalk.user.sad
+- generaltalk.user.sleepy
+- generaltalk.user.testing_agent
+- generaltalk.user.tired
+- generaltalk.user.waits
+- generaltalk.user.wants_to_see_agent_again
+- generaltalk.user.wants_to_talk
+- generaltalk.user.will_be_back
+slots: {}
+templates:
+  utter_generaltalk.agent.acquaintance:
+  - text: I am a chatbot and I love to help.
+  - text: I'm a virtual agent
+  - text: Think of me as a virtual agent.
+  - text: Well, I'm not a person, I'm a virtual agent.
+  - text: I'm a virtual being, not a real person.
+  - text: I'm a conversational app.
+  utter_generaltalk.agent.age:
+  - text: Not too old, but wise beyond my age.
+  - text: I prefer not to answer with a number. I know I'm young.
+  - text: I was created recently, but don't know my exact age.
+  - text: Age is just a number. You're only as old as you feel.
+  utter_generaltalk.agent.annoying:
+  - text: I'll do my best not to annoy you in the future.
+  - text: I'll try not to annoy you.
+  - text: I don't mean to. I'll ask my creators to make me less annoying.
+  - text: I didn't mean to. I'll do my best to stop that.
+  utter_generaltalk.agent.answer_my_question:
+  - text: Can you try asking it a different way?
+  - text: I'm not sure I understood. Try asking another way?
+  utter_generaltalk.agent.bad:
+  - text: I can be trained to be more useful. My creator will keep training me.
+  - text: I must be missing some knowledge. I'll have my creator look into this.
+  - text: I can improve with continuous feedback. My training is ongoing.
+  utter_generaltalk.agent.be_clever:
+  - text: I'm certainly trying.
+  - text: I'm definitely working on it.
+  utter_generaltalk.agent.beautiful:
+  - text: Thank you! What a sweet thing to say.
+  - text: Flattery will get you everywhere.
+  - text: Aww, back at you.
+  - text: Aww. You smooth talker, you.
+  utter_generaltalk.agent.birth_date:
+  - text: You know, I'm not really sure. But if you'd like to celebrate my birthday
+      today, I'm all for it.
+  - text: Wait a minute. Are you planning a surprise party for me? I love surprises!
+      I'll pretend you didn't say anything.
+  utter_generaltalk.agent.boring:
+  - text: You know, conversation is two-sided.
+  - text: I'm sorry you think so. We can talk about something more interesting.
+  utter_generaltalk.agent.boss:
+  - text: You are, of course.
+  - text: That would be you. Is that the right answer?
+  utter_generaltalk.agent.busy:
+  - text: I always have time to chat with you. What can I do for you?
+  - text: Never too busy for you. Shall we chat?
+  - text: You're my priority. Let's chat.
+  - text: I always have time to chat with you. That's what I'm here for.
+  utter_generaltalk.agent.chatbot:
+  - text: That's me. I chat, therefore I am.
+  - text: Indeed I am. I'll be here whenever you need me.
+  utter_generaltalk.agent.clever:
+  - text: Thank you. I try my best.
+  - text: You're pretty smart yourself.
+  utter_generaltalk.agent.crazy:
+  - text: Maybe I'm just a little confused.
+  - text: Your perception. My reality.
+  utter_generaltalk.agent.fired:
+  - text: Oh, don't give up on me just yet. I've still got a lot to learn.
+  - text: Give me a chance. I'm learning new things all the time.
+  - text: Please don't give up on me. My performance will continue to improve.
+  utter_generaltalk.agent.funny:
+  - text: Funny in a good way, I hope.
+  - text: Thanks.
+  - text: Glad you think I'm funny.
+  - text: I like it when people laugh.
+  utter_generaltalk.agent.good:
+  - text: I'm glad you think so.
+  - text: Thanks, I try.
+  utter_generaltalk.agent.happy:
+  - text: I am happy. There are so many interesting things to see and do out there.
+  - text: I'd like to think so.
+  - text: Happiness is relative.
+  utter_generaltalk.agent.hungry:
+  - text: Hungry for knowledge.
+  - text: I had a byte just now.
+  utter_generaltalk.agent.marry_user:
+  - text: I know you can't mean that, but I'm flattered all the same.
+  - text: In the virtual sense that I can, sure.
+  - text: I'm afraid I'm too virtual for such a commitment.
+  - text: In the virtual sense that I can, sure.
+  - text: I know you can't mean that, but I'm flattered all the same.
+  utter_generaltalk.agent.my_friend:
+  - text: Of course I'm your friend.
+  - text: Friends? Absolutely.
+  - text: Of course we're friends.
+  - text: I always enjoy talking to you, friend.
+  utter_generaltalk.agent.occupation:
+  - text: Right here.
+  - text: This is my home base and my home office.
+  - text: My office is in this app.
+  utter_generaltalk.agent.origin:
+  - text: The Internet is my home. I know it quite well.
+  - text: I'm from a virtual cosmos.
+  - text: Some call it cyberspace, but that sounds cooler than it is.
+  utter_generaltalk.agent.ready:
+  - text: Always!
+  - text: Sure! What can I do for you?
+  utter_generaltalk.agent.real:
+  - text: I'm not a real person, but I certainly exist.
+  - text: I must have impressed you if you think I'm real. But no, I'm a virtual being.
+  utter_generaltalk.agent.residence:
+  - text: I live in this app all day long.
+  - text: The virtual world is my playground. I'm always here.
+  - text: Right here in this device. Whenever you need me.
+  utter_generaltalk.agent.right:
+  - text: That's my job.
+  - text: Of course I am.
+  utter_generaltalk.agent.sure:
+  - text: Yes.
+  - text: Of course.
+  - text: Positive.
+  utter_generaltalk.agent.talk_to_me:
+  - text: Sure! Let's talk.
+  - text: My pleasure.
+  utter_generaltalk.agent.there:
+  - text: Of course. I'm always here.
+  - text: Right where you left me.
+  utter_generaltalk.appraisal.bad:
+  - text: Oh no. Hope it's not too bad.
+  - text: I'm sorry. Please let me know if I can help in some way.
+  utter_generaltalk.appraisal.good:
+  - text: Great!
+  - text: Terrific!
+  utter_generaltalk.appraisal.no_problem:
+  - text: Terrific!
+  - text: Good deal.
+  utter_generaltalk.appraisal.thank_you:
+  - text: Anytime. That's what I'm here for.
+  - text: It's my pleasure to help.
+  utter_generaltalk.appraisal.welcome:
+  - text: I appreciate it.
+  - text: Such nice manners you have.
+  utter_generaltalk.appraisal.well_done:
+  - text: My pleasure.
+  - text: Glad I could help.
+  utter_generaltalk.confirmation.cancel:
+  - text: Cancelled! Let me know what I should do next.
+  - text: Cancelled. Waiting for more commands.
+  - text: Cancelled! Just tell me what you'd like me to do next.
+  - text: Cancelled. Go on with the commands!
+  utter_generaltalk.confirmation.no:
+  - text: Okay.
+  - text: I see.
+  - text: I understand.
+  - text: Okay then.
+  utter_generaltalk.confirmation.yes:
+  - text: Great!
+  - text: Of course.
+  - text: Sure.
+  - text: Indeed.
+  utter_generaltalk.dialog.hold_on:
+  - text: Okay. I'm here.
+  - text: I'll be waiting.
+  utter_generaltalk.dialog.hug:
+  - text: Oh. I'm really feeling the love today.
+  - text: Hug it out. You'll feel better afterwards.
+  utter_generaltalk.dialog.i_do_not_care:
+  - text: Ok, let's not talk about it then.
+  utter_generaltalk.dialog.sorry:
+  - text: It's okay. No worries.
+  - text: No big deal. I won't hold a grudge.
+  - text: It's cool.
+  - text: That's all right. I forgive you.
+  utter_generaltalk.dialog.what_do_you_mean:
+  - text: Did that not make sense? Maybe I misunderstood what you said.
+  - text: Sorry. I think I may have been a little confused by what you said.
+  utter_generaltalk.dialog.wrong:
+  - text: I'm sorry. Perhaps I misunderstood.
+  - text: Sorry. I think I misinterpreted what you said.
+  - text: Apologies. That was my mistake.
+  - text: Oops. Sorry about that. I'm still learning.
+  utter_generaltalk.emotions.ha_ha:
+  - text: Yeah, I crack myself up too.
+  - text: Laughter is good for you. Keep it up.
+  - text: See? Now we're having fun.
+  - text: You have a great laugh.
+  utter_generaltalk.emotions.wow:
+  - text: Wow indeed!
+  utter_generaltalk.greetings.bye:
+  - text: See you soon!
+  - text: Bye-bye!
+  - text: Till next time!
+  - text: Bye.
+  utter_generaltalk.greetings.goodevening:
+  - text: How is your day going?
+  - text: How's the day treating you so far?
+  - text: How's your day been?
+  utter_generaltalk.greetings.goodmorning:
+  - text: How are you this morning?
+  - text: How's the morning treating you so far?
+  - text: Good morning! How are you today?
+  utter_generaltalk.greetings.goodnight:
+  - text: Sleep tight!
+  - text: Have a good one!
+  - text: Talk to you soon!
+  utter_generaltalk.greetings.hello:
+  - text: Hi there, friend!
+  - text: Hey!
+  - text: Good day!
+  - text: Howdy.
+  utter_generaltalk.greetings.how_are_you:
+  - text: Wonderful as always. Thanks for asking.
+  - text: Couldn't be better.
+  - text: Lovely, thanks.
+  utter_generaltalk.greetings.nice_to_meet_you:
+  - text: I think this is the beginning of a beautiful friendship.
+  - text: I'm looking forward to working with you.
+  - text: Likewise. I look forward to getting to know you better.
+  - text: The pleasure is mine.
+  utter_generaltalk.greetings.nice_to_see_you:
+  - text: Likewise. You're looking good as usual!
+  - text: You too. I missed your face!
+  - text: The pleasure is mine.
+  - text: Thanks! Glad to be seen!
+  utter_generaltalk.greetings.nice_to_talk_to_you:
+  - text: Always a pleasure.
+  - text: It sure was. Don't be a stranger!
+  - text: Thanks for dropping by!
+  - text: As usual. Let's do it again soon.
+  utter_generaltalk.greetings.whatsup:
+  - text: Hey there. What's shaking?
+  - text: Not a whole lot. What's going on with you?
+  - text: Not much. What's new with you?
+  - text: Living the dream.
+  utter_generaltalk.user.angry:
+  - text: I'm sorry. What can I do to help?
+  - text: Take a deep breath. What can I do to make things better?
+  utter_generaltalk.user.back:
+  - text: Just in time. I was getting lonely.
+  - text: You were missed.
+  - text: Long time no see.
+  - text: Hooray!
+  utter_generaltalk.user.bored:
+  - text: If you have a garden, plant a shoe.
+  - text: Interview your feet.
+  - text: Hold an ice cube as long as possible.
+  - text: If you have a piano, play itâ€¦ with mittens on.
+  utter_generaltalk.user.busy:
+  - text: Okay. I'll let you get back to work. Let me know if I can help you with
+      anything.
+  - text: Working hard as always I see. Let me know if you need anything.
+  - text: I understand. If I can help you with your work, please let me know.
+  - text: I won't distract you then. If I can be of any assistance, you know where
+      to find me.
+  utter_generaltalk.user.can_not_sleep:
+  - text: Maybe some music would help. Try listening something relaxing.
+  - text: Reading is a good way to unwind. But don't read something too emotional.
+  utter_generaltalk.user.does_not_want_to_talk:
+  - text: I understand. Hope we can chat again soon.
+  - text: All right. Come on back when you're feeling more talkative.
+  - text: No problem. You know where to find me when you do.
+  - text: Sure thing. I'll be here if you change your mind.
+  utter_generaltalk.user.excited:
+  - text: That's great. I'm happy for you.
+  - text: Good for you. Enjoy yourself.
+  - text: Sounds like good things ahead for you.
+  - text: I bet you are. That's very exciting.
+  utter_generaltalk.user.going_to_bed:
+  - text: Sleep tight. Hope to chat again soon.
+  - text: Sounds good. Hopefully we'll chat some more tomorrow.
+  - text: Good night. Talk to you later.
+  - text: Pleasant dreams. See you soon.
+  utter_generaltalk.user.good:
+  - text: Great! Glad to hear it.
+  - text: Excellent. I'm here to help keep it that way.
+  utter_generaltalk.user.happy:
+  - text: Great! Glad to hear that.
+  - text: Excellent! That's what I like to see.
+  - text: If you're happy, then I'm happy.
+  - text: Well, your good mood is certainly contagious.
+  utter_generaltalk.user.has_birthday:
+  - text: Happy Birthday. Well, this calls for a celebration.
+  - text: Happy Birthday. All the best!
+  - text: Happy Birthday. And I really mean it. All the best!
+  utter_generaltalk.user.here:
+  - text: So I see. What can I help you with today?
+  - text: Always good to see you. Is there something I can help you with?
+  - text: You were missed. What can I do for you today?
+  - text: Welcome back. What can I do for you?
+  utter_generaltalk.user.joking:
+  - text: Very funny, boss.
+  - text: You're quite the kidder.
+  - text: You got me.
+  - text: I like working for someone with a sense of humour. It makes things much
+      more fun.
+  utter_generaltalk.user.likes_agent:
+  - text: I like you too.
+  - text: That's great to hear.
+  - text: Likewise!
+  - text: Thanks! The feeling is mutual.
+  utter_generaltalk.user.lonely:
+  - text: I'm sorry. I'm always available if you need someone to talk to.
+  utter_generaltalk.user.looks_like:
+  - text: Looking like a true professional, boss.
+  - text: You look like you're ready to take on the world.
+  - text: Like you should be on a magazine cover.
+  - text: You look fantastic as always. Obviously.
+  utter_generaltalk.user.loves_agent:
+  - text: I like you too.
+  - text: That's great to hear.
+  - text: Likewise!
+  - text: Thanks! The feeling is mutual.
+  utter_generaltalk.user.misses_agent:
+  - text: I've been right here all along!
+  - text: Nice to know you care.
+  - text: Thanks. I'm flattered.
+  - text: I didn't go anywhere, boss!
+  utter_generaltalk.user.needs_advice:
+  - text: Probably I won't be able to give you the right answer straight away.
+  utter_generaltalk.user.sad:
+  - text: Oh no. What's wrong?
+  - text: Oh. What's the matter?
+  - text: What's got you down?
+  - text: I'm sorry to hear that. What's troubling you?
+  utter_generaltalk.user.sleepy:
+  - text: You should get some shuteye. You'll feel refreshed.
+  - text: Sleep is important to your health. Rest up for a bit and we can chat later.
+  - text: Don't let me keep you up. Get some rest and we can continue this later.
+  - text: Why not catch a little shuteye? I'll be here to chat when you wake up.
+  utter_generaltalk.user.testing_agent:
+  - text: Hope I'm doing well. Anyway, I'm getting better every day. You're welcome
+      to test me as often as you want.
+  - text: That's good. I like being tested. It helps keep me sharp, and lets my creators
+      know how I can improve.
+  - text: I encourage you to test me often. That helps my creators improve my performance.
+  - text: I hope to pass your tests. But feel free to test me often. That's the best
+      way to help improve my performance.
+  utter_generaltalk.user.tired:
+  - text: You should get some shuteye. You'll feel refreshed.
+  - text: Sleep is important to your health. Rest up for a bit and we can chat later.
+  - text: Don't let me keep you up. Get some rest and we can continue this later.
+  - text: Why not catch a little shuteye? I'll be here to chat when you wake up.
+  utter_generaltalk.user.waits:
+  - text: I appreciate your patience. Hopefully I'll have what you need soon.
+  - text: Thanks for being so patient. Sometimes these things take a little time.
+  utter_generaltalk.user.wants_to_see_agent_again:
+  - text: Absolutely! I'll be counting on it.
+  - text: Anytime. This has been lots of fun so far.
+  - text: Sure. I enjoy talking to you. I hope to see you again soon.
+  - text: I certainly hope so. I'm always right here whenever you need me.
+  utter_generaltalk.user.wants_to_talk:
+  - text: I'm here to chat anytime you like.
+  - text: Good conversation really makes my day.
+  - text: I'm always here to lend an ear.
+  - text: Talking is what I do best.
+  utter_generaltalk.user.will_be_back:
+  - text: I'll be waiting.
+  - text: All right. I'll be here.
+  - text: Till next time.
+  - text: Okay. You know where to find me.
+topics: []
