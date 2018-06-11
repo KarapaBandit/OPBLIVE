@@ -1,12 +1,12 @@
 [//]: # (Image References)
 
-[image1]: ./Pictures/requirements.png "img1"
-[image2]: ./Pictures/spacy_model.png "img2"
-[image3]: ./Pictures/install.png "img3"
-[image4]: ./Pictures/npm.png "img4"
-[image5]: ./Pictures/pythoninterpreter.png "img5"
-[image6]: ./Pictures/pythonintworkspace.png "img6"
-[image7]: ./Pictures/pythoninterpretananconda.png "img7"
+[image1]: ./pictures/requirements.png "img1"
+[image2]: ./pictures/spacy_model.png "img2"
+[image3]: ./pictures/install.png "img3"
+[image4]: ./pictures/npm.png "img4"
+[image5]: ./pictures/pythoninterpreter.png "img5"
+[image6]: ./pictures/pythonintworkspace.png "img6"
+[image7]: ./pictures/pythoninterpretananconda.png "img7"
 
 # Getting started 
 
@@ -23,15 +23,15 @@ Follow the instructions to install the required libraries and tools:
 5.  Click ctrl+shift+P, to select interpreter
 
     <p align="center">
-        <img width="760" height="250" src="./Pictures/pythoninterpreter.png">
+        <img width="760" height="250" src="./pictures/pythoninterpreter.png">
     </p>
 
     <p align="center">
-        <img width="760" height="150" src="./Pictures/pythonintworkspace.png">
+        <img width="760" height="150" src="./pictures/pythonintworkspace.png">
     </p>
 
     <p align="center">
-        <img width="760" height="150" src="./Pictures/pythoninterpretananconda.png">
+        <img width="760" height="150" src="./pictures/pythoninterpretananconda.png">
     </p>
     
 
@@ -42,7 +42,7 @@ Follow the instructions to install the required libraries and tools:
 	- The installation should run without the errors. A successful installation should be indicated by a message that the list of  dependencies was successfully installed:
 
     <p align="center">
-        <img width="760" height="130" src="./Pictures/requirements.png">
+        <img width="760" height="130" src="./pictures/requirements.png">
     </p>
 
 7.	Install spacy model by running:
@@ -54,7 +54,7 @@ Follow the instructions to install the required libraries and tools:
 	After the successful installation you should see a similar output in your console:
 
     <p align="center">
-        <img width="700" height="40" src="./Pictures/spacy_model.png">
+        <img width="700" height="40" src="./pictures/spacy_model.png">
     </p>
 
 
@@ -77,7 +77,7 @@ Follow the instructions to install the required libraries and tools:
 	If everything was installed successfully, you should see the following in your console:
 
     <p align="center">
-        <img width="800" height="150" src="./Pictures/install.png">
+        <img width="800" height="150" src="./pictures/install.png">
     </p>
 	
 8.	Install rasa_nlu data visualisation tool by executing:
@@ -87,7 +87,7 @@ Follow the instructions to install the required libraries and tools:
 	A successful installation should result in a similar message in your console:
 
     <p align="center">
-    <img width="460" height="50" src="./Pictures/npm.png">
+    <img width="460" height="50" src="./pictures/npm.png">
     </p>
 	
 # Now thats complete lets walkthrough the code..
