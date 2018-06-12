@@ -125,16 +125,16 @@ Follow the instructions to install the required libraries and tools:
 10. Once the 'apiserver.py' is running, navigate to http://localhost:8000
 
     <p align="center">
-        <img width="800" height="150" src="./pictures/running_web.png">
+        <img width="800" height="150" src="./pictures/running_web.PNG">
     </p>
     <p align="center">
-        <img width="800" height="250" src="./pictures/running_index.png">
+        <img width="800" height="250" src="./pictures/running_index.PNG">
     </p>
 
 11. Click on the 'mail' picture on the bottom right and start chatting!
 
     <p align="center">
-        <img width="500" height="800" src="./pictures/running_chat.png">
+        <img width="500" height="800" src="./pictures/running_chat.PNG">
     </p>
 
 # How to train your bot
@@ -163,9 +163,8 @@ Follow the instructions to install the required libraries and tools:
      **rasa-nlu-trainer --s utterances.json --p 8888**
     
     <p>
-        <img width="700" height="500" src="./pictures/intent_trainer.png">
+        <img width="700" height="500" src="./pictures/intent_trainer.PNG">
     </p>
-
 
 
 ## Natural Language Understanding (NLU) Training:
@@ -188,7 +187,7 @@ Follow the instructions to install the required libraries and tools:
     </p>
 5. The results from the training can be found at the path mentioned above.
     <p>
-        <img width="700" height="200" src="./pictures/trainingnlu_result.png">
+        <img width="700" height="200" src="./pictures/trainingnlu_result.PNG">
     </p>
 6. To run test cases, run the test case script with the following command.
 
@@ -219,15 +218,15 @@ Follow the instructions to install the required libraries and tools:
 
 5. During the training, the following outputs can be seen.
     <p>
-        <img width="1300" height="650" src="./pictures/va_training.png">
+        <img width="1300" height="650" src="./pictures/va_training.PNG">
     </p>
 6. Let the training run until it is completed. (500/500 in this case)
     <p>
-        <img width="850" height="400" src="./pictures/va_training_end.png">
+        <img width="850" height="400" src="./pictures/va_training_end.PNG">
     </p>
 7. Once the training has completed, the results can be found in the output folder.
     <p>
-        <img width="800" height="300" src="./pictures/trainingva_result.png">
+        <img width="800" height="300" src="./pictures/trainingva_result.PNG">
     </p>
 
 
